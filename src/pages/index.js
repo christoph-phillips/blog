@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import Img from "gatsby-image"
 
 import Layout from "../components/layout"
 import Image from "../components/image"
@@ -8,12 +9,14 @@ import SEO from "../components/seo"
 const IndexPage = (props) => {
   const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
   console.log({ data })
+  const imageProps = data.image.childImageSharp.fixed
+  console.log({ imageProps })
   return (<Layout>
     <SEO title="Home" />
     <h1>{ data.intro }</h1>
     <p>{ data.title }</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Image fixed={data.image.childImageSharp.fixed} />
+    <div style={{ width: '100%', marginBottom: `1.45rem` }}>
+      <Img fixed={imageProps} /> 
     </div>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
@@ -33,7 +36,7 @@ export const query = graphql`
               image {
                 id
                 childImageSharp {
-                  fixed(width: 125, height: 125) {
+                  fixed(width: 1000, height: 800) {
                     ...GatsbyImageSharpFixed
                   }
                 }
