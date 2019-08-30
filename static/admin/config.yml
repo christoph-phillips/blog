@@ -1,0 +1,21 @@
+# In your static/admin/config.yml file
+
+backend: 
+    name: github
+    repo: christoph-phillips/blog
+
+media_folder: static/assets
+public_folder: assets
+
+collections:
+  - label: "Pages"
+    name: "pages"
+    # file collections are for uniquely designed content
+    files:
+      - label: "Home Page"
+        name: "home"
+        file: "content/home.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Intro text, name: intro, widget: text}
+          - {label: Image, name: image, widget: image}
