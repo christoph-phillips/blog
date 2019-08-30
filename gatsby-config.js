@@ -17,6 +17,21 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-netlify-cms`,
     {
+        resolve: `gatsby-source-filesystem`,
+        options: {
+          path: `${__dirname}/static/assets`,
+          name: 'images',
+        },
+      },
+      {
+        resolve: `gatsby-source-filesystem`,
+        options: {
+          name: `content`,
+          path: `${__dirname}/content`,
+        },
+      },
+      'gatsby-transformer-remark',
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-starter-default`,
@@ -28,6 +43,33 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
+     {
+            resolve: `gatsby-source-filesystem`,
+                options: {
+                    path: `${__dirname}/static/assets`,
+                    name: 'images',
+                },
+        },
+    {
+            resolve: `gatsby-source-filesystem`,
+                options: {
+                    path: `${__dirname}/content/blog`,
+                    name: 'blog-posts',
+                },
+        },
+        {
+            resolve: `gatsby-transformer-remark`,
+            options: {
+                plugins: [
+                    {
+                        resolve: `gatsby-remark-relative-images`,
+                        options: {
+                            maxWidth: 590,
+                        },
+                    },
+                ],
+            },
+        },
 
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
