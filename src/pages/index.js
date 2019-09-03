@@ -7,10 +7,8 @@ import Image from "../components/image"
 import SEO from "../components/seo"
 
 const IndexPage = (props) => {
-  const data = props.data.allFile.edges[0].node.childMarkdownRemark.frontmatter
-  console.log({ data })
+  const data = props.data.mainPage.edges[0].node.childMarkdownRemark.frontmatter
   const imageProps = data.image.childImageSharp.fixed
-  console.log({ imageProps })
   return (<Layout>
     <SEO title="Home" />
     <h1>{ data.intro }</h1>
@@ -18,7 +16,6 @@ const IndexPage = (props) => {
     <div style={{ width: '100%', marginBottom: `1.45rem` }}>
       <Img fixed={imageProps} /> 
     </div>
-    <Link to="/page-2/">Go to page 2</Link>
   </Layout>
 )}
 
@@ -26,7 +23,20 @@ export default IndexPage
 
 export const query = graphql`
   query {
-    allFile (filter: {sourceInstanceName: {eq: "content"} name: {eq: "home"}}) {
+    allBlogPosts: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/blog/"}}, sort: {fields: [frontmatter___date], order: DESC}) {
+      totalCount
+      edges {
+        node {
+          id
+          frontmatter {
+            title
+            date(formatString: "DD MMMM YYYY")
+          }
+          excerpt
+        }
+      }
+    }
+    mainPage: allFile (filter: {sourceInstanceName: {eq: "content"} name: {eq: "home"}}) {
       edges {
         node {
           childMarkdownRemark {
