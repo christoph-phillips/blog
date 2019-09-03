@@ -35,10 +35,10 @@ collections:
         file: "content/header.md"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Link1, name: link1, widget: image}
+          - {label: Link1, name: link1, widget: string}
           - {label: Image1, name: image1, widget: image}
-          - {label: Link2, name: link2, widget: image}
+          - {label: Link2, name: link2, widget: string}
           - {label: Image2, name: image2, widget: image}
-          - {label: Link3, name: link3, widget: image}
+          - {label: Link3, name: link3, widget: string}
           - {label: Image3, name: image3, widget: image}
           
