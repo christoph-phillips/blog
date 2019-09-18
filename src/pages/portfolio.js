@@ -3,14 +3,25 @@ import { Link, graphql, navigate } from "gatsby"
 import Img from "gatsby-image"
 
 import SEO from "../components/seo"
+import PortfolioItem, { Container } from "../components/portfolioItem"
 
+console.log({ PortfolioItem, Container })
+const formatData = (data) => {
+  return data.map(post => {
+    return {
+      ...post.node.frontmatter
+    }
+  })
+}
 
 const Portfolio = (props) => {
-  console.log({ props })
-  // const data = props.data.mainPage.edges[0].node.childMarkdownRemark.frontmatter
-  // const imageProps = data.image.childImageSharp.fluid
+  const portfolioData = formatData(props.data.portfolio.edges)
+  console.log({ portfolioData })
   return (<Fragment>
     <SEO title="Portfolio" />
+    <Container>
+      {portfolioData.map(item => <PortfolioItem image={item.image} />)}
+    </Container>
   </Fragment>
 )}
 
@@ -18,27 +29,16 @@ export default Portfolio
 
 export const query = graphql`
   query {
-    allBlogPosts: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/portfolio/"}}, sort: {fields: [frontmatter___date], order: DESC}) {
+    portfolio: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "portfolio/"}}, sort: {fields: [frontmatter___date], order: DESC}) {
       totalCount
       edges {
         node {
           id
           frontmatter {
             title
-            date(formatString: "DD MMMM YYYY")
-          }
-          excerpt
-        }
-      }
-    }
-    mainPage: allFile (filter: {sourceInstanceName: {eq: "content"} name: {eq: "home"}}) {
-      edges {
-        node {
-          childMarkdownRemark {
-            frontmatter {
-              title
-              intro
-              image {
+            type
+            created(formatString: "DD MMMM YYYY")
+            image {
                 id
                 childImageSharp {
                   fluid {
@@ -46,9 +46,14 @@ export const query = graphql`
                   }
                 }
               }
+            intro
+            description
+            features
+            link
+            github
           }
+          excerpt
         }
       }
-    }
   }
 }`
