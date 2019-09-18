@@ -27,11 +27,12 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Type", name: "type", widget: "select", multiple: true, options: [ "game", "application", "site", "data" ], default: "site"}
-      - {label: "Created", name: "date", widget: "datetime"}
+      - {label: "Created", name: "created", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Features", name: "features", widget: "text"}
       - {label: "Code", name: "code", widget: "string"}
       - {label: "Link", name: "link", width: "string"}
-      - {label: "Description", name: "body", widget: "markdown"}
   - label: "Pages"
     name: "pages"
     # file collections are for uniquely designed content
