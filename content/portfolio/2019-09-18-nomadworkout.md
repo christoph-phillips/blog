@@ -4,6 +4,9 @@ type:
   - application
 created: 2017-09-18T09:26:00.000Z
 image: /assets/nomadworkout.png
+intro: >-
+  An athlete community app built with Node, React, and Mongo. With over 650
+  cities, city guides, and tips.  
 description: >-
   NomadWorkout is blazingly fast. Built with NodeJS, MongoDB, ReactJS and with
   OOP principles applied throughout. Users can search the database of cities,
@@ -32,7 +35,6 @@ features: >-
 
   * Security with helmetJS to set headers, Google reCaptcha, sanitised date
   before adding to MongoDB.
-code: test
 link: 'https://nomadworkout.com'
 ---
 
