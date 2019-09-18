@@ -33,7 +33,7 @@ collections:
       - {label: "Description", name: "description", widget: "markdown"}
       - {label: "Features", name: "features", widget: "markdown"}
       - {label: "Link", name: "link", width: "string"}
-      - {label: "Github", name: "github", width: "string"}
+      - {label: "Github", name: "github", width: "string", required: false}
   - label: "Pages"
     name: "pages"
     # file collections are for uniquely designed content
