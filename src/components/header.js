@@ -61,8 +61,8 @@ const Header = ({ path }) => {
   const { header, title } = useHeaderData()
   const links = [ header.link1, header.link2, header.link3 ]
   const images = [ header.image1, header.image2, header.image3 ]
-  const linkIndex = links.findIndex(link => path.includes(link))
-  const currentImage = images[linkIndex]
+  // const linkIndex = links.findIndex(link => path.includes(link))
+  const currentImage = images[0]
   console.log(currentImage.childImageSharp.fluid)
   return (
   <HeaderContainer>
