@@ -19,6 +19,19 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Featured Image", name: "thumbnail", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "portfolio" # Used in routes, e.g., /admin/collections/blog
+    label: "Portfolio" # Used in the UI
+    folder: "content/portfolio" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Type", name: "type", widget: "select", multiple: true, options: [ "game", "application", "site", "data" ], default: "site"}
+      - {label: "Created", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Code", name: "code", widget: "string"}
+      - {label: "Link", name: "link", width: "string"}
+      - {label: "Description", name: "body", widget: "markdown"}
   - label: "Pages"
     name: "pages"
     # file collections are for uniquely designed content
