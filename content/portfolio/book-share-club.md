@@ -4,6 +4,9 @@ type:
   - application
 created: 2019-09-18T09:39:22.324Z
 image: /assets/bookshareclub.png
+intro: >-
+  An interactive collaborative sharing website for book clubs built with NodeJS
+  and Passport for authentication. 
 description: >-
   Built with the MERN stack, MongoDB, Express, React, and Nodejs. This full
   stack app uses the Google Books API for users to add and request books from
