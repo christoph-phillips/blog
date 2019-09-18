@@ -4,6 +4,7 @@ type:
   - site
 created: 2019-09-18T09:34:01.455Z
 image: /assets/summittrainingcamp.png
+intro: A responsive booking website for triathlon training camps in Thailand
 description: >-
   A sports booking website for Summit Training in Chiang Mai, Thailand built
   from the ground up with WordPress. Features fully responsive CSS styling and
