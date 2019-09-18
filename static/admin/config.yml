@@ -29,9 +29,11 @@ collections:
       - {label: "Type", name: "type", widget: "select", multiple: true, options: [ "game", "application", "site", "data" ], default: "site"}
       - {label: "Created", name: "created", widget: "datetime"}
       - {label: "Image", name: "image", widget: "image"}
+      - {label: "Intro", name: "intro", widget: "markdown"}
       - {label: "Description", name: "description", widget: "markdown"}
       - {label: "Features", name: "features", widget: "markdown"}
       - {label: "Link", name: "link", width: "string"}
+      - {label: "Github", name: "github", width: "string"}
   - label: "Pages"
     name: "pages"
     # file collections are for uniquely designed content
