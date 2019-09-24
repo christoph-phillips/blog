@@ -40,18 +40,11 @@ collections:
     # file collections are for uniquely designed content
     files:
       - label: "Home Page"
-        name: "home"
+        name: "homepage"
         file: "content/home.md"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro text, name: intro, widget: text}
-          - {label: Image, name: image, widget: image}
-      - label: "Identities"
-        name: "identities"
-        file: "content/identities.md"
-        fields:
-          - label: IdentitieExampls
-            name: identityexamples
+          - label: Identities
+            name: identities
             widget: list
             fields: 
               - {label: Identity, name: identity, widget: string}
@@ -60,3 +53,4 @@ collections:
                 name: images
                 widget: list
                 field: {label: Image, name: image, widget: image}
+      
