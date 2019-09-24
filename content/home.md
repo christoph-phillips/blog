@@ -14,7 +14,6 @@ identities:
     profileimage: /assets/developer.jpg
   - identity: athlete
     images:
-      - /assets/whatsapp-image-2019-07-06-at-12.53.20.jpeg
       - /assets/68246875_10157833366156282_171028479649775616_n.jpg
       - /assets/crowden.jpg
     intro: >-
