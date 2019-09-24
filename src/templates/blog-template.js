@@ -23,11 +23,11 @@ export default ({ data }) => {
       <Layout>
         <SEO title={title} />
         <Title>{title}</Title>
-        { /* <Img
+        <Img
           fixed={image.childImageSharp.fixed}
           objectFit="cover"
           objectPosition="50% 50%"
-        /> */}
+        />
         <Content dangerouslySetInnerHTML={{__html: converter.makeHtml(main) }}/>
       </Layout>
   )

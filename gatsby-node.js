@@ -15,8 +15,6 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 }
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
-
-   // allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___created]}, filter: {fileAbsolutePath: {regex: "/content/blog/"}}) {
   const result = await graphql(`
     query {
       portfolio: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/content/portfolio/"}}) {
