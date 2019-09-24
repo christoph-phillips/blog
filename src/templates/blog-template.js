@@ -17,17 +17,17 @@ const GithubLink = styled.img`
 `
 const converter = new showdown.Converter()
 export default ({ data }) => {
-  console.log(data)
+
   const { title, type, image, intro, main } = data.post.frontmatter
   return (
       <Layout>
         <SEO title={title} />
         <Title>{title}</Title>
-        <Img
+        { /* <Img
           fixed={image.childImageSharp.fixed}
           objectFit="cover"
           objectPosition="50% 50%"
-        />
+        /> */}
         <Content dangerouslySetInnerHTML={{__html: converter.makeHtml(main) }}/>
       </Layout>
   )
