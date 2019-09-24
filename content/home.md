@@ -20,6 +20,6 @@ identities:
     intro: >-
       Competitive fell runner and endurance cyclist, racing both in the UK and
       abroad.
-    profileimage: /assets/crowden5.jpg
+    profileimage: /assets/athlete.jpg
 ---
 
