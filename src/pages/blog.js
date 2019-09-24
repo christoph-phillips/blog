@@ -2,6 +2,7 @@ import React, { Fragment, useEffect } from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import BlogItem, { Container } from "../components/blog-item"
 
 const formatBlogData = (data) => {
   return data.map(post => {
@@ -17,6 +18,9 @@ const Blog = (props) => {
   console.log({ blogData })
   return (<Layout>
     <SEO title="Blog" />
+    <Container>
+      {blogData.map(item => <BlogItem { ...item } />)}
+    </Container>
   </Layout>
 )}
 
@@ -35,8 +39,8 @@ export const query = graphql`
           frontmatter {
             title
             type
-            date(formatString: "DD MMMM YYYY")
-            thumbnail {
+            created(formatString: "DD MMMM YYYY")
+            image {
                 id
                 relativePath
                 childImageSharp  {
@@ -45,6 +49,8 @@ export const query = graphql`
                     }
                   }
               }
+            intro
+            main
           }
           excerpt
         }
