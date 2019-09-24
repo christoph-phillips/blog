@@ -52,7 +52,7 @@ collections:
         file: "content/identities.md"
         fields:
           - {label: Identity, name: identity, widget: string}
-          - {label: Intro, name: intro, widget: string}
+          - {label: Intro, name: intro, widget: text}
           - label: Images
             name: images
             widget: list
