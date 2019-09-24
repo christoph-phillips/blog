@@ -15,9 +15,20 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 }
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
+
+   // allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___created]}, filter: {fileAbsolutePath: {regex: "/content/blog/"}}) {
   const result = await graphql(`
     query {
-      allMarkdownRemark {
+      portfolio: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/content/portfolio/"}}) {
+        edges {
+          node {
+            fields {
+              slug
+            }
+          }
+        }
+      }
+      posts: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/content/blog/"}}) {
         edges {
           node {
             fields {
@@ -28,7 +39,20 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     }
   `)
-  result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+  result.data.posts.edges.forEach(({ node }) => {
+    console.log(JSON.stringify(node))
+    createPage({
+      path: node.fields.slug,
+      component: path.resolve(`./src/templates/blog-template.js`),
+      context: {
+        // Data passed to context is available
+        // in page queries as GraphQL variables.
+        slug: node.fields.slug,
+      },
+    })
+  })
+  result.data.portfolio.edges.forEach(({ node }) => {
+    console.log(JSON.stringify(node))
     createPage({
       path: node.fields.slug,
       component: path.resolve(`./src/templates/portfolio-template.js`),

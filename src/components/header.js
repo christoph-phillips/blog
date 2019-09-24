@@ -38,6 +38,8 @@ const NavLink = styled(Link)`
   text-transform: uppercase;
   font-family: Montserrat;
   margin: 25px 10px;
+  font-weight: bold;
+  color: gray;
 `
 const HomeLink = styled(Link)`
   font-weight: bolder;
@@ -62,7 +64,7 @@ const Header = ({ path }) => {
           links.map(link => <NavLink 
             key={link} 
             to={`/${link === 'home' ? '' : link}`}
-            activeStyle={{ color: 'red' }}
+            activeStyle={{ color: 'black' }}
           >
             {link}
           </NavLink>)

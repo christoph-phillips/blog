@@ -13,34 +13,36 @@ export const Container = styled.div`
 `
 
 const ItemContainer = styled(Link)`
-  width: 300px;
+  width: 100%;
   height: 200px;
   margin: 10px;
   cursor: pointer;
+  display: flex;
 `
 
-const ItemImage = styled(Img)`
-
+const ItemImage = styled.div`
+  background: black;
+  width: 200px;
+  height: 100%;
 `
 
 const ItemInfo = styled.div`
 `
 
 const ItemTitle = styled.h2`
-  width: 100%;
 `
 
-const ItemSubtitle = styled.h4``
+const ItemSubtitle = styled.h5``
 
-const PortfolioItem = ({ image, title, intro, slug }) => {
-  console.log({ image, title, intro, slug })
+const BlogItem = ({ image, title, intro, slug }) => {
   return (
   <ItemContainer to={slug}>
-      <Img
+      <ItemImage />
+      {/* <Img
         fixed={image.childImageSharp.fixed}
         objectFit="cover"
         objectPosition="50% 50%"
-      />
+      /> */ }
     <ItemInfo>
       <ItemTitle>{title}</ItemTitle>
       <ItemSubtitle>{intro}</ItemSubtitle>
@@ -49,4 +51,4 @@ const PortfolioItem = ({ image, title, intro, slug }) => {
 )
 }
 
-export default PortfolioItem
+export default BlogItem

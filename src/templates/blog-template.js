@@ -18,26 +18,17 @@ const GithubLink = styled.img`
 const converter = new showdown.Converter()
 export default ({ data }) => {
   console.log(data)
-  const { title, type, image, intro, description, features, link, github } = data.post.frontmatter
+  const { title, type, image, intro, main } = data.post.frontmatter
   return (
       <Layout>
         <SEO title={title} />
         <Title>{title}</Title>
-        <ExternalLink href={link} target={'_blank'}>
-          <Img
-            fixed={image.childImageSharp.fixed}
-            objectFit="cover"
-            objectPosition="50% 50%"
-          />
-        </ExternalLink>
-        { github && <ExternalLink href={github} target={'_blank'}>
-         <GithubLink
-            src={githubLogo}
-          />
-        </ExternalLink> }
-        <Content dangerouslySetInnerHTML={{__html: converter.makeHtml(description) }}/>
-        <Subtitle>Features</Subtitle>
-        <Content dangerouslySetInnerHTML={{__html: converter.makeHtml(features) }}/>
+        <Img
+          fixed={image.childImageSharp.fixed}
+          objectFit="cover"
+          objectPosition="50% 50%"
+        />
+        <Content dangerouslySetInnerHTML={{__html: converter.makeHtml(main) }}/>
       </Layout>
   )
 }
@@ -59,10 +50,7 @@ export const query = graphql`
               }
           }
         intro
-        description
-        features
-        link
-        github
+        main
       }
     }
   }
