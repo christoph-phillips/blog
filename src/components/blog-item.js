@@ -20,8 +20,7 @@ const ItemContainer = styled(Link)`
   display: flex;
 `
 
-const ItemImage = styled.div`
-  background: black;
+const ItemImage = styled(Img)`
   width: 200px;
   height: 100%;
 `
@@ -31,20 +30,22 @@ const ItemInfo = styled.div`
 
 const ItemTitle = styled.h2`
 `
+const ItemDate= styled.h5`
+`
 
 const ItemSubtitle = styled.h5``
 
-const BlogItem = ({ image, title, intro, slug }) => {
+const BlogItem = ({ image, title, intro, slug, created }) => {
   return (
   <ItemContainer to={slug}>
-      <ItemImage />
-      { /* <Img
-        fixed={image.childImageSharp.fixed}
-        objectFit="cover"
-        objectPosition="50% 50%"
-      /> */ }
+    <ItemImage 
+      fixed={image.childImageSharp.fixed}
+      objectFit="cover"
+      objectPosition="50% 50%"
+    />
     <ItemInfo>
       <ItemTitle>{title}</ItemTitle>
+      <ItemDate>{created}</ItemDate>
       <ItemSubtitle>{intro}</ItemSubtitle>
     </ItemInfo>
   </ItemContainer>
