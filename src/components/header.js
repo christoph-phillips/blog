@@ -1,6 +1,6 @@
 import { useStaticQuery, Link } from "gatsby"
 // import Img from "gatsby-image"
-import BackgroundImage from 'gatsby-background-image'
+// import BackgroundImage from 'gatsby-background-image'
 import PropTypes from "prop-types"
 import React from "react"
 
@@ -53,7 +53,7 @@ const SocialLinks = styled.div`
 `
 
 const Header = ({ path }) => {
-  const { header, title } = useHeaderData()
+  // const { header, title } = useHeaderData()
   const links = [ 'home', 'blog', 'portfolio' ]
   return (
   <HeaderContainer>
@@ -89,56 +89,55 @@ Header.defaultProps = {
 export default Header
 
 const useHeaderData = () => {
-  const data = useStaticQuery(graphql`
-
-    query {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-      header: allFile (filter: {sourceInstanceName: {eq: "content"} name: {eq: "header"}}) {
-        edges {
-          node {
-            childMarkdownRemark {
-              frontmatter {
-                title
-                link1
-                link2
-                link3
-                image1 {
-                  id
-                  childImageSharp {
-                    fluid {
-                      ...GatsbyImageSharpFluid_withWebp
-                    }
-                  }
-                }
-                image2 {
-                  id
-                  childImageSharp {
-                    fluid {
-                      ...GatsbyImageSharpFluid_withWebp
-                    }
-                  }
-                }
-                image3 {
-                  id
-                  childImageSharp {
-                    fluid {
-                      ...GatsbyImageSharpFluid_withWebp
-                    }
-                  }
-                }
-            }
-          }
-        }
-      }
-    }
-  }
-`)
-  return {
-    title: data.site.siteMetadata.title,
-    header: data.header.edges[0].node.childMarkdownRemark.frontmatter
-  }
+//   const data = useStaticQuery(graphql`
+//     query {
+//       site {
+//         siteMetadata {
+//           title
+//         }
+//       }
+//       header: allFile (filter: {sourceInstanceName: {eq: "content"} name: {eq: "header"}}) {
+//         edges {
+//           node {
+//             childMarkdownRemark {
+//               frontmatter {
+//                 title
+//                 link1
+//                 link2
+//                 link3
+//                 image1 {
+//                   id
+//                   childImageSharp {
+//                     fluid {
+//                       ...GatsbyImageSharpFluid_withWebp
+//                     }
+//                   }
+//                 }
+//                 image2 {
+//                   id
+//                   childImageSharp {
+//                     fluid {
+//                       ...GatsbyImageSharpFluid_withWebp
+//                     }
+//                   }
+//                 }
+//                 image3 {
+//                   id
+//                   childImageSharp {
+//                     fluid {
+//                       ...GatsbyImageSharpFluid_withWebp
+//                     }
+//                   }
+//                 }
+//             }
+//           }
+//         }
+//       }
+//     }
+//   }
+// `)
+//   return {
+//     title: data.site.siteMetadata.title,
+//     header: data.header.edges[0].node.childMarkdownRemark.frontmatter
+//   }
 }

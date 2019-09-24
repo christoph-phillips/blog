@@ -39,15 +39,8 @@ collections:
     name: "pages"
     # file collections are for uniquely designed content
     files:
-      - label: "Home Page"
-        name: "home"
-        file: "content/home.md"
+      - label: "Gallery"
+        name: "galleryImages"
         widget: "list"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Intro, name: intro, widget: string}
-          - label: "Images"
-            name: "images"
-            widget: "list"
-            field: {label: Image, name: image, widget: image}
+        field: {label: Image, name: image, widget: image}
           
