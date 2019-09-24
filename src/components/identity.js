@@ -6,6 +6,8 @@ import BackgroundImage from 'gatsby-background-image'
 import styled from 'styled-components'
 
 const IdentityContainer = styled.div`
+	margin-bottom: 50px;
+	text-align: center;
 
 `
 const ProfileImage = styled(Img)`
@@ -14,18 +16,24 @@ const ProfileImage = styled(Img)`
 	border-radius: 100%;
 `
 
-const IdentityTitle = styled.h2``
+const IdentityTitle = styled.h1`
+
+`
 const IdentityIntro = styled.h4``
 
 const ImageContainer = styled.div`
 	display: flex;
 	flex-wrap: wrap;
+	align-items: center;
+	vertical-align: center;
+	justify-content: center;
 `
 const IdentityImage = styled(Img)`
+	margin: 15px;
+	zoom: 0.6;
 `
 
 const Identity = ({ profileimage, intro, identity, images }) => {
-  console.log({ profileimage, intro, identity, images })
   return (<IdentityContainer>
   	<IdentityTitle>{identity}</IdentityTitle>
   	<ProfileImage
@@ -33,6 +41,7 @@ const Identity = ({ profileimage, intro, identity, images }) => {
 		objectFit="cover"
 		objectPosition="50% 50%"
 	/>
+	
   	<IdentityIntro>{intro}</IdentityIntro>
   	<ImageContainer>
 	{ images.map(image => image && (<IdentityImage
