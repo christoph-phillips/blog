@@ -12,7 +12,7 @@ identities:
       I work with and consult for a wide range of organisations from Finland,
       Thailand, Canada and the UK.
     profileimage: /assets/developer.jpg
-  - identity: ':runner: athlete :runner:'
+  - identity: athlete
     images:
       - /assets/68246875_10157833366156282_171028479649775616_n.jpg
       - /assets/crowden.jpg
