@@ -38,7 +38,7 @@ const BlogItem = ({ image, title, intro, slug }) => {
   return (
   <ItemContainer to={slug}>
       <ItemImage />
-      {/* <Img
+      { /* <Img
         fixed={image.childImageSharp.fixed}
         objectFit="cover"
         objectPosition="50% 50%"

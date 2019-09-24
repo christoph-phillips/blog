@@ -65,6 +65,7 @@ const Header = ({ path }) => {
             key={link} 
             to={`/${link === 'home' ? '' : link}`}
             activeStyle={{ color: 'black' }}
+            partiallyActive={link !== 'home'}
           >
             {link}
           </NavLink>)
