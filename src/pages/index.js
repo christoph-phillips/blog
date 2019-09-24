@@ -5,6 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 const HomePage = (props) => {
+	console.log(props)
   return (<Layout path={props.path}>
     <SEO title="Home" />
   </Layout>
@@ -28,7 +29,11 @@ export const query = graphql`
               	intro
               	images {
               		id
-	               
+	                childImageSharp {
+	                    fixed {
+	                      ...GatsbyImageSharpFixed
+	                    }
+	                }
               	}
             }
           }

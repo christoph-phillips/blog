@@ -49,6 +49,7 @@ collections:
             fields: 
               - {label: Identity, name: identity, widget: string}
               - {label: Intro, name: intro, widget: text}
+              - {label: ProfileImage, name: profileimage, widget: image}
               - label: Images
                 name: images
                 widget: list
