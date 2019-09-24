@@ -3,11 +3,17 @@ import { Link, graphql, navigate } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Identity from "../components/identity"
 
-const HomePage = (props) => {
-	console.log(props)
-  return (<Layout path={props.path}>
+const extractIdentities = data => data.main.edges[0].node.childMarkdownRemark.frontmatter.identities
+
+
+const HomePage = ({ data, path }) => {
+  const identities = extractIdentities(data)
+  
+  return (<Layout path={path}>
     <SEO title="Home" />
+    {identities.map(identity => <Identity {...identity} />)}
   </Layout>
 )}
 
@@ -27,6 +33,13 @@ export const query = graphql`
 			identities {
 				identity
               	intro
+              	profileimage {
+              		childImageSharp {
+	                    fixed {
+	                      ...GatsbyImageSharpFixed
+	                    }
+	                }
+              	}
               	images {
               		id
 	                childImageSharp {
