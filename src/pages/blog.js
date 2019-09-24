@@ -1,10 +1,9 @@
-import React from "react"
+import React, { Fragment, useEffect } from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import PortfolioItem, { Container } from "../components/portfolioItem"
 
-const formatData = (data) => {
+const formatBlogData = (data) => {
   return data.map(post => {
     return {
       ...post.node.frontmatter,
@@ -13,21 +12,19 @@ const formatData = (data) => {
   })
 }
 
-const Portfolio = (props) => {
-  const portfolioData = formatData(props.data.portfolio.edges)
+const Blog = (props) => {
+  const blogData = formatBlogData(props.data.posts.edges)
+  console.log({ blogData })
   return (<Layout>
-    <SEO title="Portfolio" />
-    <Container>
-      {portfolioData.map(item => <PortfolioItem { ...item } />)}
-    </Container>
+    <SEO title="Blog" />
   </Layout>
 )}
 
-export default Portfolio
+export default Blog
 
 export const query = graphql`
   query {
-    portfolio: allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___created]}, filter: {fileAbsolutePath: {regex: "/content/portfolio/"}}) {
+    posts: allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___created]}, filter: {fileAbsolutePath: {regex: "/content/blog/"}}) {
       totalCount
       edges {
         node {
@@ -38,8 +35,8 @@ export const query = graphql`
           frontmatter {
             title
             type
-            created(formatString: "DD MMMM YYYY")
-            image {
+            date(formatString: "DD MMMM YYYY")
+            thumbnail {
                 id
                 relativePath
                 childImageSharp  {
@@ -48,15 +45,10 @@ export const query = graphql`
                     }
                   }
               }
-            intro
-            description
-            features
-            link
-            github
+            body
           }
           excerpt
         }
       }
   }
 }`
-

@@ -69,7 +69,7 @@ const ItemSubtitle = styled.h4``
 const PortfolioItem = ({ image, title, intro, slug }) => {
   const [ ref, hovered ] = useHover()
   return (
-  <ItemContainer to={slug} ref={ref}>
+  <ItemContainer to={slug} ref={ref} onClick={navigate}>
     <ItemBackground
       Tag="div"
       fluid={image && image.childImageSharp.fluid}

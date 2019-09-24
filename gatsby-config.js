@@ -50,11 +50,18 @@ module.exports = {
                     name: 'images',
                 },
         },
-    {
+      {
             resolve: `gatsby-source-filesystem`,
                 options: {
                     path: `${__dirname}/content/blog`,
                     name: 'blog-posts',
+                },
+        },
+        {
+            resolve: `gatsby-source-filesystem`,
+                options: {
+                    path: `${__dirname}/content/portfolio`,
+                    name: 'portfolio',
                 },
         },
         {
@@ -64,7 +71,11 @@ module.exports = {
                     {
                         resolve: `gatsby-remark-relative-images`,
                         options: {
-                            maxWidth: 590,
+                            maxWidth: 1200,
+                            withWebp: true,
+                            quality: 100,
+                            tracedSVG: false,
+                            showCaptions: true
                         },
                     },
                 ],

@@ -1,11 +1,13 @@
 import React, { useEffect } from "react"
-import { navigate } from "gatsby"
+import { Link, graphql, navigate } from "gatsby"
 
-const IndexPage = (props) => {
-  useEffect(() => {
-    navigate('/run/');
-  }, []);
-  return null
-}
+import Layout from "../components/layout"
+import SEO from "../components/seo"
 
-export default IndexPage
+const HomePage = (props) => {
+  return (<Layout path={props.path}>
+    <SEO title="Home" />
+  </Layout>
+)}
+
+export default HomePage

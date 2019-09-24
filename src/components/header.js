@@ -7,80 +7,61 @@ import React from "react"
 import styled, { css } from 'styled-components'
 
 const HeaderContainer = styled.header`
+  position: fixed;
+  top: 0;
+  left: 0;
   width: 100%;
-  height: 100%;
-`
-
-
-const HeaderBackground = styled(BackgroundImage)`
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
+  height: 75px;
+  border-bottom: 1px solid gray;
+  display: flex;
+  background: white;
+  z-index: 9999;
 `
 
 const LinksContainer = styled.div`
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  left: 0;
-  top: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  vertical-align: center;
   text-align: center;
+  width: 60%;
 `
 
 const NavLinks = styled.div`
   display: flex;
   flex-direction: row;
-  height: 100px;
+  height: 75px;
 `
-
 const NavLink = styled(Link)`
-  color: white;
   text-decoration: none;
-  margin-right: 20px;
   text-transform: uppercase;
-  font-size: 40px;
   font-family: Montserrat;
-  font-weight: bolder;
+  margin: 25px 10px;
 `
 const HomeLink = styled(Link)`
-  text-decoration: none;
-  font-size: 80px;
-  color: white;
-  margin-bottom: 60px;
   font-weight: bolder;
   text-transform: uppercase;
   font-family: Montserrat;
+  width: 20%;
+`
+
+const SocialLinks = styled.div`
+  width: 20%;
 `
 
 const Header = ({ path }) => {
-  console.log('LOCATION', path)
   const { header, title } = useHeaderData()
-  const links = [ header.link1, header.link2, header.link3 ]
-  const images = [ header.image1, header.image2, header.image3 ]
-  // const linkIndex = links.findIndex(link => path.includes(link))
-  const currentImage = images[0]
-  console.log(currentImage.childImageSharp.fluid)
+  const links = [ 'home', 'blog', 'portfolio' ]
   return (
   <HeaderContainer>
-    <HeaderBackground
-      Tag="div"
-      className={'test'}
-      fluid={currentImage.childImageSharp.fluid}
-      backgroundColor={`#040e18`}
-      style={{ height: '100%'}}
-    >
-    </HeaderBackground>
+    <HomeLink to="/">C Phillips</HomeLink>
     <LinksContainer>
-      <HomeLink to="/">{header.title}</HomeLink>
       <NavLinks>
         {
           links.map(link => <NavLink 
             key={link} 
-            to={`/${link}`}
+            to={`/${link === 'home' ? '' : link}`}
             activeStyle={{ color: 'red' }}
           >
             {link}
@@ -88,6 +69,8 @@ const Header = ({ path }) => {
         }
       </NavLinks>
     </LinksContainer>
+    <SocialLinks>
+    </SocialLinks>
   </HeaderContainer>
 )
 }
