@@ -11,7 +11,7 @@ identities:
     intro: >-
       I work with and consult for a wide range of organisations from Finland,
       Thailand, Canada and the UK.
-    profileimage: /assets/12108787_10100767080692970_8362017857783877656_n.jpg
+    profileimage: /assets/developer.jpg
   - identity: athlete
     images:
       - /assets/whatsapp-image-2019-07-06-at-12.53.20.jpeg
