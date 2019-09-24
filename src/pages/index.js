@@ -11,3 +11,46 @@ const HomePage = (props) => {
 )}
 
 export default HomePage
+
+export const query = graphql`
+     query {
+      main: allFile (filter: {sourceInstanceName: {eq: "content"} name: {eq: "header"}}) {
+        edges {
+          node {
+            childMarkdownRemark {
+              frontmatter {
+                title
+                link1
+                link2
+                link3
+                image1 {
+                  id
+                  childImageSharp {
+                    fluid {
+                      ...GatsbyImageSharpFluid_withWebp
+                    }
+                  }
+                }
+                image2 {
+                  id
+                  childImageSharp {
+                    fluid {
+                      ...GatsbyImageSharpFluid_withWebp
+                    }
+                  }
+                }
+                image3 {
+                  id
+                  childImageSharp {
+                    fluid {
+                      ...GatsbyImageSharpFluid_withWebp
+                    }
+                  }
+                }
+            }
+          }
+        }
+      }
+    }
+  }
+}`

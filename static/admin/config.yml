@@ -48,12 +48,15 @@ collections:
           - {label: Image, name: image, widget: image}
       - label: "Identities"
         name: "identities"
-        widget: "list"
         file: "content/identities.md"
         fields:
-          - {label: Identity, name: identity, widget: string}
-          - {label: Intro, name: intro, widget: text}
-          - label: Images
-            name: images
+          - label: IdentitieExampls
+            name: identityexamples
             widget: list
-            field: {label: Image, name: image, widget: image}
+            fields: 
+              - {label: Identity, name: identity, widget: string}
+              - {label: Intro, name: intro, widget: text}
+              - label: Images
+                name: images
+                widget: list
+                field: {label: Image, name: image, widget: image}
