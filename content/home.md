@@ -25,7 +25,6 @@ identities:
     images:
       - /assets/juggle.jpg
       - /assets/juggle2.jpg
-      - /assets/juggle2.jpg
     intro: 'The unicycle, juggling clubs, balls, and fire are my weapons :)'
     profileimage: /assets/performer.jpg
 ---
