@@ -18,7 +18,15 @@ identities:
       - /assets/crowden.jpg
     intro: >-
       Competitive fell runner and endurance cyclist, racing both in the UK and
-      abroad.
+      abroad. I write about the interface of sport, physical health, and mental
+      fortitude.
     profileimage: /assets/athlete.jpg
+  - identity: performer
+    images:
+      - /assets/juggle.jpg
+      - /assets/juggle2.jpg
+      - /assets/juggle2.jpg
+    intro: 'The unicycle, juggling clubs, balls, and fire are my weapons :)'
+    profileimage: /assets/performer.jpg
 ---
 
