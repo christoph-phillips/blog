@@ -35,7 +35,7 @@ export const query = graphql`
               	intro
               	profileimage {
               		childImageSharp {
-	                    fixed(width: 250, height: 250) {
+	                    fixed(width: 250, height: 250, quality: 100) {
 	                      ...GatsbyImageSharpFixed
 	                    }
 	                }
@@ -43,7 +43,7 @@ export const query = graphql`
               	images {
               		id
 	                childImageSharp {
-	                    fixed {
+	                    fixed(height: 250) {
 	                      ...GatsbyImageSharpFixed
 	                    }
 	                }

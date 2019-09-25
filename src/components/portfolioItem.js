@@ -17,8 +17,8 @@ export const Container = styled.div`
 `
 
 const ItemContainer = styled(Link)`
-  width: 300px;
-  height: 200px;
+  width: 250px;
+  height: 150px;
   margin: 10px;
   cursor: pointer;
 `
@@ -47,7 +47,7 @@ const ItemInfo = styled.div`
   height: 100%;
   display: flex;
   flex-wrap: wrap;
-  padding: 20px;
+  padding: 15px;
   text-align: center;
   color: white;
   position: absolute;
@@ -62,9 +62,13 @@ const ItemInfo = styled.div`
 
 const ItemTitle = styled.h2`
   width: 100%;
+  font-size: 25px;
+  margin: 0px 0px 10px 0px;
 `
 
-const ItemSubtitle = styled.h4``
+const ItemSubtitle = styled.h4`
+  font-size: 15px;
+`
 
 const PortfolioItem = ({ image, title, intro, slug }) => {
   const [ ref, hovered ] = useHover()

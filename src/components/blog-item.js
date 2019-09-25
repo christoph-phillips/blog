@@ -13,11 +13,13 @@ export const Container = styled.div`
 `
 
 const ItemContainer = styled(Link)`
-  width: 100%;
-  height: 200px;
+  height: 180px;
   margin: 10px;
   cursor: pointer;
   display: flex;
+  text-decoration: none;
+  color: black;
+  margin: 5px;
 `
 
 const ItemImage = styled(Img)`
@@ -29,11 +31,16 @@ const ItemInfo = styled.div`
 `
 
 const ItemTitle = styled.h2`
+  margin: 5px 5px;
 `
 const ItemDate= styled.h5`
+  margin: 5px 5px;
+  font-size: 12px;
 `
 
-const ItemSubtitle = styled.h5``
+const ItemSubtitle = styled.h5`
+  margin: 10px 5px;
+`
 
 const BlogItem = ({ image, title, intro, slug, created }) => {
   return (
@@ -44,8 +51,8 @@ const BlogItem = ({ image, title, intro, slug, created }) => {
       objectPosition="50% 50%"
     />
     <ItemInfo>
-      <ItemTitle>{title}</ItemTitle>
       <ItemDate>{created}</ItemDate>
+      <ItemTitle>{title}</ItemTitle>
       <ItemSubtitle>{intro}</ItemSubtitle>
     </ItemInfo>
   </ItemContainer>

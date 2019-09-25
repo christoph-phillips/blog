@@ -22,7 +22,6 @@ export default ({ data }) => {
   return (
       <Layout>
         <SEO title={title} />
-        <Title>{title}</Title>
         <ExternalLink href={link} target={'_blank'}>
           <Img
             fixed={image.childImageSharp.fixed}
@@ -30,6 +29,7 @@ export default ({ data }) => {
             objectPosition="50% 50%"
           />
         </ExternalLink>
+        <Title>{title}</Title>
         { github && <ExternalLink href={github} target={'_blank'}>
          <GithubLink
             src={githubLogo}

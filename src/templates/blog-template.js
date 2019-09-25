@@ -9,6 +9,9 @@ import SEO from "../components/seo"
 
 import githubLogo from "../images/github.png"
 
+const Head = styled.div`
+  text-align: center;
+`
 const Title = styled.h1``
 const Subtitle = styled.h3``
 const Content = styled.div``
@@ -22,12 +25,14 @@ export default ({ data }) => {
   return (
       <Layout>
         <SEO title={title} />
-        <Title>{title}</Title>
-        <Img
-          fixed={image.childImageSharp.fixed}
-          objectFit="cover"
-          objectPosition="50% 50%"
-        />
+        <Head>
+          <Img
+            fixed={image.childImageSharp.fixed}
+            objectFit="cover"
+            objectPosition="50% 50%"
+          />
+          <Title>{title}</Title>
+        </Head>
         <Content dangerouslySetInnerHTML={{__html: converter.makeHtml(main) }}/>
       </Layout>
   )

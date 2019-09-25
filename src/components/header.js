@@ -1,10 +1,14 @@
 import { useStaticQuery, Link } from "gatsby"
-// import Img from "gatsby-image"
+import Img from "gatsby-image"
 // import BackgroundImage from 'gatsby-background-image'
 import PropTypes from "prop-types"
 import React from "react"
 
 import styled, { css } from 'styled-components'
+
+import strava from "../images/strava.png"
+import github from "../images/github.png"
+import linkedin from "../images/linkedin.png"
 
 const HeaderContainer = styled.header`
   position: fixed;
@@ -48,16 +52,58 @@ const HomeLink = styled(Link)`
   width: 20%;
 `
 
-const SocialLinks = styled.div`
-  width: 20%;
+const ProfileImage = styled(Img)`
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+  margin: 12px 0px 12px 12px;
 `
 
+const SocialLinks = styled.div`
+  width: 20%;
+  display: flex;
+  align-items: right;
+  justify-content: flex-end;
+`
+const ExternalLink = styled.a``
+const SocialIcon = styled.img`
+  width: 32px;
+  height: 32px;
+  margin: 21px 21px 0px 0px;
+`
+
+const links = [ 'home', 'blog', 'portfolio' ]
+const socialLinks = [
+  {
+    name: 'strava',
+    icon: strava,
+    link: 'https://www.strava.com/athletes/1267887'
+  }, 
+  {
+    name: 'github',
+    icon: github,
+    link: 'https://github.com/christoph-phillips'
+  },
+  {
+    name: 'linkedin',
+    icon: linkedin,
+    link: 'https://www.linkedin.com/in/chrisphillips86/'
+  }
+]
+
 const Header = ({ path }) => {
-  // const { header, title } = useHeaderData()
-  const links = [ 'home', 'blog', 'portfolio' ]
+  const { identities } = useHeaderData()
+  
+  console.log(socialLinks)
   return (
   <HeaderContainer>
-    <HomeLink to="/">C Phillips</HomeLink>
+    <HomeLink to="/">
+      <ProfileImage
+        fixed={identities[0].profileimage.childImageSharp.fixed}
+        objectFit="cover"
+        objectPosition="50% 50%"
+      />
+    </HomeLink>
     <LinksContainer>
       <NavLinks>
         {
@@ -73,6 +119,13 @@ const Header = ({ path }) => {
       </NavLinks>
     </LinksContainer>
     <SocialLinks>
+      { socialLinks.map(data => (
+           <ExternalLink href={data.link} target={'_blank'}>
+           <SocialIcon
+              src={data.icon}
+            />
+          </ExternalLink>
+        ))}
     </SocialLinks>
   </HeaderContainer>
 )
@@ -89,55 +142,37 @@ Header.defaultProps = {
 export default Header
 
 const useHeaderData = () => {
-//   const data = useStaticQuery(graphql`
-//     query {
-//       site {
-//         siteMetadata {
-//           title
-//         }
-//       }
-//       header: allFile (filter: {sourceInstanceName: {eq: "content"} name: {eq: "header"}}) {
-//         edges {
-//           node {
-//             childMarkdownRemark {
-//               frontmatter {
-//                 title
-//                 link1
-//                 link2
-//                 link3
-//                 image1 {
-//                   id
-//                   childImageSharp {
-//                     fluid {
-//                       ...GatsbyImageSharpFluid_withWebp
-//                     }
-//                   }
-//                 }
-//                 image2 {
-//                   id
-//                   childImageSharp {
-//                     fluid {
-//                       ...GatsbyImageSharpFluid_withWebp
-//                     }
-//                   }
-//                 }
-//                 image3 {
-//                   id
-//                   childImageSharp {
-//                     fluid {
-//                       ...GatsbyImageSharpFluid_withWebp
-//                     }
-//                   }
-//                 }
-//             }
-//           }
-//         }
-//       }
-//     }
-//   }
-// `)
-//   return {
-//     title: data.site.siteMetadata.title,
-//     header: data.header.edges[0].node.childMarkdownRemark.frontmatter
-//   }
+  const data = useStaticQuery(graphql`
+    {
+  main: allFile(filter: {sourceInstanceName: {eq: "content"}, name: {eq: "home"}}) {
+    edges {
+      node {
+        childMarkdownRemark {
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+      identities {
+        identity
+                identity
+                profileimage {
+                  childImageSharp {
+                      fixed(width: 50, height: 50) {
+                        ...GatsbyImageSharpFixed
+                      }
+                  }
+                }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+`)
+  console.log(data)
+  return {
+    identities: data.main.edges[0].node.childMarkdownRemark.frontmatter.identities,
+  }
 }
