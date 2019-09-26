@@ -3,7 +3,7 @@ title: NomadWorkout
 type:
   - application
 created: 2017-09-18T09:26:00.000Z
-image: /assets/nomadworkout.png
+image: /assets/test.png
 intro: >-
   An athlete community app built with Node, React, and Mongo. With over 650
   cities, city guides, and tips.  
