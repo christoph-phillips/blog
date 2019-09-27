@@ -1,5 +1,6 @@
 ---
 title: Songhi Platform
+featured: true
 type:
   - application
 created: 2019-09-26T06:55:18.575Z
