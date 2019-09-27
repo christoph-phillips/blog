@@ -88,7 +88,7 @@ main: >-
 
   |4| Lactate Threshold  | 88% - 95% | 1 Hour  | 168 - 182 bpm |
 
-  |5| VO2 Max  | 88% - 98% | 3-5 Minutes  | 182bpm - 192bpm |
+  |5| VO2 Max  | 95% - 100% | 3-5 Minutes  | 182bpm - 192bpm |
 
 
   ## My Own Story
