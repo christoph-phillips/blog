@@ -80,7 +80,7 @@ main: >-
 
   |---|---|---|---|--- |
 
-  |1| Active Recovery | < 70%  | All Day  | < 134bpm |
+  |1| Active Recovery | < 70%  | All Day  | < 134 |
 
   |2| Endurance  | 70% - 80%  | 10 Hours  | 134 - 153 |
 
