@@ -1,6 +1,6 @@
 ---
 title: Strava Social
-featured: true
+featured: false
 type:
   - application
 created: 2019-09-18T09:58:31.053Z
