@@ -1,6 +1,6 @@
 ---
 title: GGs Drive Inn
-featured: true
+featured: false
 type:
   - site
 created: 2019-09-18T10:01:57.244Z
