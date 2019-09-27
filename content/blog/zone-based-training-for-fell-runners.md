@@ -76,22 +76,77 @@ main: >-
   Here is an overview of the basic zones, heart rate, and durations:
 
 
-  | Zone  | Description  | %HrMax | Duration  | My HR (max 192bpm) |
+  | Zone | Description       | %HrMax    | Duration    | My HR (max 192bpm) |
 
-  |---|---|---|---|--- |
+  | ---- | ----------------- | --------- | ----------- | ------------------ |
 
-  |1| Active Recovery | < 70%  | All Day  | < 134 |
+  | 1    | Active Recovery   | < 70%     | All Day     | < 134              |
 
-  |2| Endurance  | 70% - 80%  | 10 Hours  | 134 - 153 |
+  | 2    | Endurance         | 70% - 80% | 10 Hours    | 134 - 153          |
 
-  |3| Tempo  | 80% - 88%  | 3 Hours  | 153 - 168 |
+  | 3    | Tempo             | 80% - 88% | 3 Hours     | 153 - 168          |
 
-  |4| Lactate Threshold  | 88% - 95% | 1 Hour  | 168 - 182 |
+  | 4    | Lactate Threshold | 88% - 95% | 1 Hour      | 168 - 182          |
 
-  |5| VO2 Max  | 95% - 98% | 3-5 Minutes  | 182 - 188 |
+  | 5    | VO2 Max           | 95% - 98% | 3-5 Minutes | 182 - 188          |
+
+
+
+
+  ## Overview of Each Zone With Adaptation Table - NEEDS TO BE REALLY
+  SIMPLIFIED 
+
+
+  ## Whats Wrong With The Training Above
+
+
+  Too long in tempo
+
+
+  Too long in active recovery 
+
+
+  Not enough time in z2
+
+
+  Very little time at lactate threshold
+
+
+  No time at vo2 max
+
+
+  This leads to issues with -> 
+
+
+  Metabolism - metabolic stress, recovery, adaptation, ability to train, fatigue
+
+
+  Diet - overeating 
+
+
+  Injury - too much training hard with little benefit
+
+
+  ## How You Should Do It
+
+
+  Depends on your race - should target specific conditions, BUT IN GENERAL ->
+
+
+  Lots of zone 2 - keep same heart rate despite the terrain
+
+
+  Some sessions to stress the other systems - all round athlete - mimic a race
+  coming soon
 
 
   ## My Own Story
+
+
+  maffetone
+
+
+  cycling power zones - see the light
 
 
   Header
