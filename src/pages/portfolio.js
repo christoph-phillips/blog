@@ -1,5 +1,5 @@
 import React from "react"
-
+import styled from 'styled-components'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PortfolioItem, { Container } from "../components/portfolioItem"
@@ -12,13 +12,24 @@ const formatData = (data) => {
     }
   })
 }
+const extractFeatured = data => {
+  return {
+    featured: data.filter(item => item.featured),
+    notFeatured: data.filter(item => !item.featured)
+  }
+}
 
 const Portfolio = (props) => {
   const portfolioData = formatData(props.data.portfolio.edges)
+  const { featured, notFeatured } = extractFeatured(portfolioData)
+  console.log({ featured, notFeatured })
   return (<Layout>
     <SEO title="Portfolio" />
+    <Container outline>
+      {featured.map(item => <PortfolioItem { ...item } />)}
+    </Container>
     <Container>
-      {portfolioData.map(item => <PortfolioItem { ...item } />)}
+      {notFeatured.map(item => <PortfolioItem { ...item } />)}
     </Container>
   </Layout>
 )}
@@ -53,6 +64,7 @@ export const query = graphql`
             features
             link
             github
+            featured
           }
           excerpt
         }

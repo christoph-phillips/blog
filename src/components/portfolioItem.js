@@ -14,6 +14,11 @@ export const Container = styled.div`
   align-items: center;
   vertical-align: center;
   justify-content: center;
+  ${props => props.outline && css`
+    border-bottom: 1px solid black;
+    margin-bottom: 50px;
+    padding: 50px 0px;
+  `}
 `
 
 const ItemContainer = styled(Link)`

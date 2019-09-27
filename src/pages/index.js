@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Identity from "../components/identity"
 
-import image from '../images/songhi-studio2.png'
+import image from '../images/pizzicato.png'
 
 const extractIdentities = data => data.main.edges[0].node.childMarkdownRemark.frontmatter.identities
 
