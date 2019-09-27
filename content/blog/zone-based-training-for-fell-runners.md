@@ -75,30 +75,18 @@ main: >-
   overview of the basic zones, heart rate, and durations:
 
 
-  \|   |   |   |   |   |
+  | Level | Name  |  %HrMax |  Duration |
 
+  |---|---|---|---|---|
 
-  \|---|---|---|---|---|
+  | 1  | Active Recovery  | < 55%  | All Day  |   |
 
+  |   |   |   |   |   |
 
-  \|   |   |   |   |   |
-
-
-  \|   |   |   |   |   |
-
-
-  \|   |   |   |   |   |
-
-
+  |   |   |   |   |   |
 
 
   ## My Own Story
-
-
-
-
-
-
 
 
   Header
