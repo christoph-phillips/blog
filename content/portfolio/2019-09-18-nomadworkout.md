@@ -1,5 +1,6 @@
 ---
 title: NomadWorkout
+featured: true
 type:
   - application
 created: 2017-09-18T09:26:00.000Z
