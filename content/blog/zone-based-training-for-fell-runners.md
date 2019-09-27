@@ -71,23 +71,24 @@ main: >-
 
   The first thing to note is that this soon gets complicated, so I'm going to
   simplify it down with what I use that I find helpful whilst training and
-  racing and what I think is the most relevant for fell runners. Here is an
-  overview of the basic zones, heart rate, and durations:
+  racing and what I think is the most relevant for fell runners. This is the
+  simplest way, based on max heart rate, but there are many methods out there.
+  Here is an overview of the basic zones, heart rate, and durations:
 
 
-  | Zone  | Description  | %HrMax | Duration  | 
+  | Zone  | Description  | %HrMax | Duration  | My HR (max 192bpm) |
 
-  |---|---|---|---|
+  |---|---|---|---|--- |
 
-  |1| Active Recovery | < 65%  | All Day  |
+  |1| Active Recovery | < 70%  | All Day  | < 134bpm |
 
-  |2| Endurance  | 65% - 75%  | 10 Hours  |
+  |2| Endurance  | 70% - 80%  | 10 Hours  | 134 - 153bpm |
 
-  |3| Tempo  | 75% - 85%  | 3 Hours  |
+  |3| Tempo  | 80% - 88%  | 3 Hours  | 153bpm - 168bpm |
 
-  |4| Lactate Threshold  | 85% - 98% | 1 Hour  |
+  |4| Lactate Threshold  | 88% - 95% | 1 Hour  | 168 - 182 bpm |
 
-  |5| VO2 Max  | 88% - 98% | 3-5 Minutes  |
+  |5| VO2 Max  | 88% - 98% | 3-5 Minutes  | 182bpm - 192bpm |
 
 
   ## My Own Story
