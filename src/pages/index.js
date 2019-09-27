@@ -5,6 +5,8 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Identity from "../components/identity"
 
+import image from '../images/songhi-studio2.png'
+
 const extractIdentities = data => data.main.edges[0].node.childMarkdownRemark.frontmatter.identities
 
 
@@ -14,8 +16,10 @@ const HomePage = ({ data, path }) => {
   return (<Layout path={path}>
     <SEO title="Home" />
     {identities.map(identity => <Identity {...identity} />)}
-  </Layout>
-)}
+  </Layout>)
+  // return <img src={image} style={{width: '100%', margin: '40px 0px'}}/>
+/*)*/
+}
 
 export default HomePage
 
