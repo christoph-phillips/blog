@@ -1,5 +1,6 @@
 ---
 title: Government Spending Analysis
+featured: true
 type:
   - data
 created: 2019-09-18T09:55:06.389Z
