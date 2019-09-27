@@ -1,6 +1,6 @@
 ---
 title: Wilson
-featured: true
+featured: false
 type:
   - application
 created: 2019-09-27T08:59:18.456Z
