@@ -79,11 +79,15 @@ main: >-
 
   |---|---|---|---|
 
-  |1| Active Recovery | < 55%  | All Day  |
+  |1| Active Recovery | < 65%  | All Day  |
 
-  |2|   |   |   |
+  |2| Endurance  | 65% - 75%  | 10 Hours  |
 
-  |3|   |   |   |
+  |3| Tempo  | 75% - 85%  | 3 Hours  |
+
+  |4| Lactate Threshold  | 85% - 98% | 1 Hour  |
+
+  |5| VO2 Max  | 88% - 98% | 3-5 Minutes  |
 
 
   ## My Own Story
