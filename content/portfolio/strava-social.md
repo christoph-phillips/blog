@@ -3,7 +3,7 @@ title: Strava Social
 type:
   - application
 created: 2019-09-18T09:58:31.053Z
-image: /assets/tictactwo.png
+image: /assets/stravasocial.png
 intro: >-
   A relationship mapping tool for Strava athletes. Maps followers around the
   globe and shows relationships between all your followers.
