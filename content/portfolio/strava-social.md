@@ -21,7 +21,7 @@ features: |-
   * Google geocoding API
   * D3JS Data Analysis and Representation
   * Force Directed Graphs and TopoJSON
-link: 'https://stravasocial.herokuapp.com/login'
-github: 'https://github.com/christoph-phillips/stravasocial'
+link: 'https://wizardly-shannon-1b8807.netlify.com/'
+github: ''
 ---
 
