@@ -82,13 +82,13 @@ main: >-
 
   |1| Active Recovery | < 70%  | All Day  | < 134bpm |
 
-  |2| Endurance  | 70% - 80%  | 10 Hours  | 134 - 153bpm |
+  |2| Endurance  | 70% - 80%  | 10 Hours  | 134 - 153 |
 
-  |3| Tempo  | 80% - 88%  | 3 Hours  | 153bpm - 168bpm |
+  |3| Tempo  | 80% - 88%  | 3 Hours  | 153 - 168 |
 
-  |4| Lactate Threshold  | 88% - 95% | 1 Hour  | 168 - 182 bpm |
+  |4| Lactate Threshold  | 88% - 95% | 1 Hour  | 168 - 182 |
 
-  |5| VO2 Max  | 95% - 100% | 3-5 Minutes  | 182bpm - 192bpm |
+  |5| VO2 Max  | 95% - 100% | 3-5 Minutes  | 182 - 192 |
 
 
   ## My Own Story
