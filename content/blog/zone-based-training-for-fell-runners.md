@@ -75,17 +75,15 @@ main: >-
   overview of the basic zones, heart rate, and durations:
 
 
-  | Option | Description |
+  | Zone  | Description  | %HrMax | Duration  | 
 
-  | ------ | ----------- |
+  |---|---|---|---|
 
-  | data   | path to data files to supply the data that will be passed into
-  templates. |
+  |1| Active Recovery | < 55%  | All Day  |
 
-  | engine | engine to be used for processing templates. Handlebars is the
-  default. |
+  |2|   |   |   |
 
-  | ext    | extension to be used for dest files. |
+  |3|   |   |   |
 
 
   ## My Own Story
