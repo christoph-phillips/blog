@@ -17,6 +17,13 @@ import "./layout.css"
 const Content = styled.div`
   margin: 100px 100px;
   min-height: 100%;
+  @media (max-width: 1024px) {
+    margin: 100px 50px;
+  }
+  @media (max-width: 768px) {
+    margin: 100px 30px;
+  }
+ 
 `
 
 const Layout = ({ children, path }) => {

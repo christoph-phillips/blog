@@ -13,21 +13,36 @@ export const Container = styled.div`
 `
 
 const ItemContainer = styled(Link)`
-  height: 180px;
+  height: 250px;
+  min-height: 180px;
   margin: 10px;
   cursor: pointer;
   display: flex;
   text-decoration: none;
   color: black;
   margin: 5px;
+  @media (max-width: 768px) {
+    flex-direction: column;
+    height: 300px;
+  }
 `
 
 const ItemImage = styled(Img)`
-  width: 200px;
+  width: 400px;
+  height: auto;
+  max-height: 200px;
+  max-width: 100%;
   height: 100%;
+  margin: 0px auto;
 `
 
 const ItemInfo = styled.div`
+  width: calc(100% - 400px);
+  @media (max-width: 768px) {
+    width: 100%;
+  }
+  display: flex;
+  flex-direction: column;
 `
 
 const ItemTitle = styled.h2`
