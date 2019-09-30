@@ -207,10 +207,85 @@ main: >-
   3. The buzz isn't the same. The after effect of a Zone 2 session is nothing
   like running in higher intensities. The buzz of adrenaline and exhaustion
   doesn't happen. Its a much more sedate training zone and will make you feel
-  calm and collected. This can be tough if you enjoy beasting yourself and lying
-  on the sofa afterwards!
+  calm and collected. This can be tough if you enjoy beasting yourself in tempo
+  mode and lying on the sofa afterwards!
 
 
   ## What can I expect?
+
+
+  As your metabolism and neuromuscular system adapt to the lower intensity of
+  training, there are some big changes that will come, albeit slowly. 
+
+
+  Your pace in Zone 2 will increase. This means you will be running the same
+  pace in Zone 2 as you used to in Zone 3. It will feel easier and you will be
+  able to hold it for longer. As others around you are breathing heavily, you'll
+  be ticking along knowing that you are training exactly as you need to.
+
+
+  Your stamina and endurance will increase. You will have a better oxygen
+  transport system and your ability to burn fats will improve. You'll speed up
+  when others are slowing down towards the end of a race.
+
+
+  You will be faster for the same heart rate at higher intensities. You used to
+  run at 170bpm and feel quick, but you'll really feel strong now. You'll shock
+  yourself, you'll feel like a faster runner.
+
+
+  Your times in races will improve. In your Zone 2 sessions will get used to
+  running an even intensity, over uneven terrain. Its well known that in fell
+  races people slow down on the flats, but you'll keep going, overtaking others.
+
+
+  You'll recover quickly. You'll be ready for more intense sessions instead of
+  being fatigued. You'll avoid injury. You'll keep consistent. 
+
+
+  ## Why Zone 2 made me the runner I am today
+
+
+  My training used to be characterised by tough runs that had me out of breath.
+  I was trying to prove that I was quick, to myself, and to others. I was
+  nervous of long distances, worried about fuelling on runs, and eating a lot of
+  sugary foods.
+
+
+  Last year I began Zone 2 training as the mainstay of my time outdoors,
+  starting with 3 - 4 months of only Zone 2, and then building in other sessions
+  around it as I got stronger.
+
+
+  To begin with it was difficult. I felt so slow. I was walking up every hill. I
+  felt like I was a slow runner. My pace on the flat at 145bpm was 9:00 minute
+  miles. 
+
+
+  As my pace evened out I noticed a few things. The first was that I was
+  actually keeping up with people on the descents for the first time in my life.
+  I was also faster on the flats than ever. 
+
+
+  After 2 months I saw my pace dropping. 8:30 minute miles. Then 7:30 minute
+  miles. I felt so strong and I was only going easy. Zone 2 began to feel hard.
+
+
+  My heart rate was much lower in races. Not peaking in the 186bpm range it used
+  to. 82bpm felt like practically sprinting, which means I could go stronger for
+  longer and races didn't leave me as fatigued. I noticed I could race more
+  often competitively, still recover, and get my other sessions done.
+
+
+  Where am I at now? I can run 7:00 minute miles at 145bpm in Zone 2 on the
+  flats. On hilly runs, I feel strong on all aspects of terrain. My core is
+  stronger. I am confident in my own ability to hold different paces. I don't
+  try and prove anything to anyone. I train at my own paces. I like running with
+  slower runners. I run my own races and don't panic. 
+
+
+  I'm really proud of where I've got to and the runner I am today. I hope this
+  can be of benefit to other runners that are caught in the same trap of
+  consistent tempo running.
 ---
 
