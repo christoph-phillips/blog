@@ -1,8 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Chris Phillips`,
-    description: `Run Bike Code`,
-    author: `@christoph-phillips`,
+    title: "Run Bike Code",
+    description:
+      "The personal blog of Chris Phillips. Developer, Athlete, Writer",
+    url: "https://runbikecode.com", // No trailing slash allowed!
+    image: "/images/perfomer.jpg", // Path to your image you placed in the 'static' folder
+    author: "Chris Phillips"
   },
   plugins: [
     {

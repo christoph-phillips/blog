@@ -641,3 +641,18 @@ pre tt:after {
   width: 100%!important;
   height: 100%!important;
 }
+
+/* blog posts */
+.post figure {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.post figure figcaption {
+  font-size: 14px;
+}
+.post img {
+  max-width: 100%;
+  width: 400px;
+  margin: 0px auto;
+}

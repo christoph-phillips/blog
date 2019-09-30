@@ -15,7 +15,6 @@ const formatBlogData = (data) => {
 
 const Blog = (props) => {
   const blogData = formatBlogData(props.data.posts.edges)
-  console.log({ blogData })
   return (<Layout>
     <SEO title="Blog" />
     <Container>
