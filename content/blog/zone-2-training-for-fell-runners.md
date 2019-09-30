@@ -123,5 +123,96 @@ main: >-
   eat for high intensity runs less than 2 hours. You won't need to eat at all
   for your long runs up to 3 hours. This diet change will lead to weight loss, a
   key in training and racing faster for free.
+
+
+  ## How do I do it?
+
+
+  The first thing you need to do is work out your maximum heart rate. There are
+  so many testing protocols for this but I find the easiest is to take a race of
+  between 20 - 40 minutes where you worked as hard as you could, you weren't
+  fatigued beforehand, and you sprinted to the finish line. Take the maximum
+  value from that sprint at the end and it will be very close to your maximum.
+
+
+  Next you need to work out your Zone 2 heart rate. You can do this using the
+  calculator here. Just input your maximum heart rate and take the Zone 2
+  figures. (If you are interested in the other zones, what they mean, and how to
+  train them, more will be coming soon).
+
+
+  The difficult thing is then putting it into practice for your next run. The
+  most important thing is to keep your heart rate somewhere between the upper
+  and lower limits. It will definitely mean that you have to slow down
+  drastically on any hill. It might mean you have to run faster on the flats and
+  downs. 
+
+
+  You have to keep the zone consistent. Any foray into the Zone 3 will cause a
+  reset in the fat adaptation as your body switches to burning carbs. Any lower
+  and you won't elicit enough stress to give benefits.
+
+
+  I find the best way of doing this is to turn off all fields on my running
+  watch so that I can only see heart rate. Then I can glance down occasionally
+  as I run to check I'm in the right zone, forgetting pacing and distance
+  metrics. This will feel annoying at first, but your body will adapt and you
+  will begin to recognise when you are in Zone 2 and not need to look at all as
+  you progress.
+
+
+  You can also cross train effectively as you now have a standard to keep to. I
+  do a lot of sessions on the bike, and I know that if I am in a Zone 2 session
+  it's equivalent metabolically to doing it on a run.
+
+
+  Some people have asked me about the quantity of Zone 2 training. I feel that
+  in the beginning you should keep the same mileage and duration as before, just
+  prevent yourself running in higher and lower zones for most of your running.
+  You will soon find you can start to increase your mileage as your intensity
+  reduces. 
+
+
+  ## But don't I need a balanced training schedule?
+
+
+  Zone 2 training is not everything. It should be incorporated into a varied
+  training routine that works other systems, depending on your targets in terms
+  of training, racing, and lifestyle. I think the best place to start is to
+  consciously replace those runs where your heart rate / intensity was in Zone
+  3, with Zone 2 running. The goal is to provide stimulus for your body to
+  adapt, and training in the 'dead zone' for most of your runs will not do this.
+
+
+  ## Overcoming Zone 2 challenges
+
+
+  There are a few challenges you will meet when you first begin targeting this
+  zone.
+
+
+  1. You will have to walk on the hills. This has the mental effect of making
+  you not feel strong. We are playing the long game here, not satisfying our
+  ego. Try and keep in mind that it will pay off in the weeks and months to
+  come.
+
+
+  2. You will find it difficult to train with others. Everyone has different
+  abilities and training methods. You are going to find that you are further
+  behind on shorter runs to begin with, and probably further ahead on longer
+  runs feeling fresher while others bonk or exhaust themselves. If you run with
+  a club, this gives you a really good opportunity to spend more time with the
+  slower runners at the back, enjoying new conversations whilst keeping your own
+  training intact.
+
+
+  3. The buzz isn't the same. The after effect of a Zone 2 session is nothing
+  like running in higher intensities. The buzz of adrenaline and exhaustion
+  doesn't happen. Its a much more sedate training zone and will make you feel
+  calm and collected. This can be tough if you enjoy beasting yourself and lying
+  on the sofa afterwards!
+
+
+  ## What can I expect?
 ---
 
