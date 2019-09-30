@@ -200,9 +200,9 @@ main: >-
   come.
 
 
-  ![Walking uphill
-  ](/assets/67485748_10218841660651128_3569950917782405120_o.jpg "Walking uphill
-  can be fun :)")
+  ![Walking uphill can be fun
+  :)](/assets/67485748_10218841660651128_3569950917782405120_o.jpg "Walking
+  uphill can be fun :)")
 
 
   2. **You will find it difficult to train with others**. Everyone has different
@@ -212,6 +212,11 @@ main: >-
   a club, this gives you a really good opportunity to spend more time with the
   slower runners at the back, enjoying new conversations whilst keeping your own
   training intact.
+
+
+  ![Spend time running with runners of all abilities while club
+  running](/assets/68246875_10157833366156282_171028479649775616_n.jpg "Spend
+  time running with runners of all abilities while club running")
 
 
   3. **The buzz isn't quite the same**. The after effect of a Zone 2 session is
@@ -251,9 +256,9 @@ main: >-
   down on the flats, but you'll keep going, overtaking others.
 
 
-  ![Running downhill at the Saddleworth
-  round](/assets/67510809_10156380797971430_2018877728563920896_o.jpg "You'll be
-  faster downhill than you ever thought possible")
+  ![You'll be faster downhill than you ever thought
+  possible](/assets/67510809_10156380797971430_2018877728563920896_o.jpg "You'll
+  be faster downhill than you ever thought possible")
 
 
   You'll recover quickly. You'll be ready for more intense sessions instead of
@@ -310,7 +315,8 @@ main: >-
   the field fell apart and I was able to keep going thanks to Zone 2 training.
 
 
-  ![Winning the lost Shepherd fell race](/assets/lost-shepherd.jpg "I consider
-  Zone 2 training responsible for my wins at longer races")
+  ![I consider Zone 2 training responsible for my wins at longer
+  races](/assets/lost-shepherd.jpg "I consider Zone 2 training responsible for
+  my wins at longer races")
 ---
 
