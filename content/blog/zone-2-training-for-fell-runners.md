@@ -200,6 +200,11 @@ main: >-
   come.
 
 
+  ![Walking uphill
+  ](/assets/67485748_10218841660651128_3569950917782405120_o.jpg "Walking uphill
+  can be fun :)")
+
+
   2. **You will find it difficult to train with others**. Everyone has different
   abilities and training methods. You are going to find that you are further
   behind on shorter runs to begin with, and probably further ahead on longer
@@ -244,6 +249,11 @@ main: >-
   running an even intensity, over uneven terrain. Hills, flats, and downs are
   all run at the same intensity. It's well known that in fell races people slow
   down on the flats, but you'll keep going, overtaking others.
+
+
+  ![Running downhill at the Saddleworth
+  round](/assets/67510809_10156380797971430_2018877728563920896_o.jpg "You'll be
+  faster downhill than you ever thought possible")
 
 
   You'll recover quickly. You'll be ready for more intense sessions instead of
@@ -293,6 +303,14 @@ main: >-
 
   I'm really proud of where I've got to and the runner I am today. I hope this
   can be of benefit to other runners that are caught in the same trap of
-  consistent tempo running.
+  consistent tempo running. 
+
+
+  Here's a picture of my winning ceremony at the lost Shepherd Fell race, where
+  the field fell apart and I was able to keep going thanks to Zone 2 training.
+
+
+  ![Winning the lost Shepherd fell race](/assets/lost-shepherd.jpg "I consider
+  Zone 2 training responsible for my wins at longer races")
 ---
 
