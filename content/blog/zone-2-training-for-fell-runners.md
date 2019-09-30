@@ -15,9 +15,9 @@ main: >-
   training methodologies in favour of the call of the wild. 
 
 
-  I'm a fan of the wild :) I'm a fan of getting outdoors and just running. But I
-  also love getting stronger, going faster for longer, and improving my race
-  times. Heart rate based training has made me a better runner all round,
+  I'm a fan of the wild :smile: I'm a fan of getting outdoors and just running.
+  But I also love getting stronger, going faster for longer, and improving my
+  race times. Heart rate based training has made me a better runner all round,
   specifically due to increasing my Zone 2 sessions.
 
 
