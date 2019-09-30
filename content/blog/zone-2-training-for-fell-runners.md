@@ -47,8 +47,8 @@ main: >-
   slower as the race goes on. 
 
 
-  So how can we reverse this trend. Get faster as races go on, recover quickly
-  from training, and get stronger to avoid injury.
+  Zone 2 sessions will reverse this trend. It will help you get faster as races
+  go on, recover quickly from training, and become stronger to avoid injury.
 
 
   ## What is Zone 2?
@@ -68,7 +68,7 @@ main: >-
   it lies between 134 and 153 bpm.
 
 
-  ## The Benefits of Zone 2 Running
+  ## The Benefits
 
 
   Zone 2 training has its biggest effect on your metabolism. At this intensity
@@ -137,15 +137,13 @@ main: >-
 
   Next you need to work out your Zone 2 heart rate. You can do this using the
   calculator here. Just input your maximum heart rate and take the Zone 2
-  figures. (If you are interested in the other zones, what they mean, and how to
-  train them, more will be coming soon).
+  figures. 
 
 
-  The difficult thing is then putting it into practice for your next run. The
-  most important thing is to keep your heart rate somewhere between the upper
-  and lower limits. It will definitely mean that you have to slow down
-  drastically on any hill. It might mean you have to run faster on the flats and
-  downs. 
+  The difficult thing is then putting it into practice for your next run. You
+  need to keep your heart rate somewhere between the upper and lower limits. It
+  will definitely mean that you have to slow down drastically on any hill. It
+  might mean you have to run faster on the flats and downs. 
 
 
   You have to keep the zone consistent. Any foray into the Zone 3 will cause a
