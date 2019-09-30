@@ -125,7 +125,7 @@ main: >-
   key in training and racing faster for free.
 
 
-  ## How do I do it?
+  ## How to train in Zone 2?
 
 
   The first thing you need to do is work out your maximum heart rate. There are
@@ -171,7 +171,7 @@ main: >-
   reduces. 
 
 
-  ## But don't I need a balanced training schedule?
+  ## A balanced training schedule?
 
 
   Zone 2 training is not everything. It should be incorporated into a varied
@@ -179,7 +179,12 @@ main: >-
   of training, racing, and lifestyle. I think the best place to start is to
   consciously replace those runs where your heart rate / intensity was in Zone
   3, with Zone 2 running. The goal is to provide stimulus for your body to
-  adapt, and training in the 'dead zone' for most of your runs will not do this.
+  adapt, and training in the 'dead zone' for most of your runs will not do
+  this. 
+
+
+  So you can still do your hill repeats and specifically targeted tempo runs.
+  Just slow down on those runs which you used to get carried away on. 
 
 
   ## Overcoming Zone 2 challenges
@@ -189,13 +194,13 @@ main: >-
   zone.
 
 
-  1. You will have to walk on the hills. This has the mental effect of making
-  you not feel strong. We are playing the long game here, not satisfying our
-  ego. Try and keep in mind that it will pay off in the weeks and months to
+  1. **You will have to walk on the hills**. This has the mental effect of
+  making you not feel strong. We are playing the long game here, not satisfying
+  our ego. Try and keep in mind that it will pay off in the weeks and months to
   come.
 
 
-  2. You will find it difficult to train with others. Everyone has different
+  2. **You will find it difficult to train with others**. Everyone has different
   abilities and training methods. You are going to find that you are further
   behind on shorter runs to begin with, and probably further ahead on longer
   runs feeling fresher while others bonk or exhaust themselves. If you run with
@@ -204,11 +209,11 @@ main: >-
   training intact.
 
 
-  3. The buzz isn't the same. The after effect of a Zone 2 session is nothing
-  like running in higher intensities. The buzz of adrenaline and exhaustion
-  doesn't happen. Its a much more sedate training zone and will make you feel
-  calm and collected. This can be tough if you enjoy beasting yourself in tempo
-  mode and lying on the sofa afterwards!
+  3. **The buzz isn't quite the same**. The after effect of a Zone 2 session is
+  nothing like running in higher intensities. The buzz of adrenaline and
+  exhaustion doesn't happen. Its a much more sedate training zone and will make
+  you feel calm and collected. This can be tough if you enjoy beasting yourself
+  in tempo mode and lying on the sofa afterwards!
 
 
   ## What can I expect?
@@ -221,7 +226,8 @@ main: >-
   Your pace in Zone 2 will increase. This means you will be running the same
   pace in Zone 2 as you used to in Zone 3. It will feel easier and you will be
   able to hold it for longer. As others around you are breathing heavily, you'll
-  be ticking along knowing that you are training exactly as you need to.
+  be ticking along knowing that you are training exactly as you need to. Zone 2
+  pace will feel hard on your legs, but you'll be able to do it all day. 
 
 
   Your stamina and endurance will increase. You will have a better oxygen
@@ -235,8 +241,9 @@ main: >-
 
 
   Your times in races will improve. In your Zone 2 sessions will get used to
-  running an even intensity, over uneven terrain. Its well known that in fell
-  races people slow down on the flats, but you'll keep going, overtaking others.
+  running an even intensity, over uneven terrain. Hills, flats, and downs are
+  all run at the same intensity. It's well known that in fell races people slow
+  down on the flats, but you'll keep going, overtaking others.
 
 
   You'll recover quickly. You'll be ready for more intense sessions instead of
