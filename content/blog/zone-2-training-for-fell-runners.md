@@ -136,8 +136,8 @@ main: >-
 
 
   Next you need to work out your Zone 2 heart rate. You can do this using the
-  calculator here. Just input your maximum heart rate and take the Zone 2
-  figures. 
+  calculator [here](/calculator). Just input your maximum heart rate and take
+  the Zone 2 figures. 
 
 
   The difficult thing is then putting it into practice for your next run. You
@@ -312,7 +312,7 @@ main: >-
 
 
   Here's a picture of my winning ceremony at the lost Shepherd Fell race, where
-  the field fell apart and I was able to keep going thanks to Zone 2 training.
+  the field slowed down and I was able to keep going thanks to Zone 2 training.
 
 
   ![I consider Zone 2 training responsible for my wins at longer
