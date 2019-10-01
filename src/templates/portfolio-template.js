@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import showdown from 'showdown'
-import styled, { css } from 'styled-components'
+import styled from 'styled-components'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -17,8 +17,7 @@ const GithubLink = styled.img`
 `
 const converter = new showdown.Converter()
 export default ({ data }) => {
-  console.log(data)
-  const { title, type, image, intro, description, features, link, github } = data.post.frontmatter
+  const { title, image, description, features, link, github } = data.post.frontmatter
   return (
       <Layout>
         <SEO title={title} />

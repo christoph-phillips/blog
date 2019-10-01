@@ -1,8 +1,7 @@
 import React from "react"
-import styled from 'styled-components'
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import PortfolioItem, { Container } from "../components/portfolioItem"
+import PortfolioItem, { Container } from "../components/portfolio-item"
 
 const formatData = (data) => {
   return data.map(post => {

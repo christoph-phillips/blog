@@ -1,8 +1,6 @@
-import { useStaticQuery, Link } from "gatsby"
-// import Img from "gatsby-image"
+import { Link } from "gatsby"
 import BackgroundImage from 'gatsby-background-image'
-import PropTypes from "prop-types"
-import React, { useRef, useState, useEffect, Fragment } from "react"
+import React, { useRef, useState, useEffect } from "react"
 
 import styled, { css } from 'styled-components'
 

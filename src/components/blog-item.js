@@ -1,9 +1,8 @@
-import { useStaticQuery, Link } from "gatsby"
+import React from "react"
+import { Link } from "gatsby"
 import Img from "gatsby-image"
-import PropTypes from "prop-types"
-import React, { useRef, useState, useEffect, Fragment } from "react"
 
-import styled, { css } from 'styled-components'
+import styled from 'styled-components'
 
 export const Container = styled.div`
   width: 100%;

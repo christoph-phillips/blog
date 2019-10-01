@@ -1,11 +1,11 @@
-import React, { useEffect } from "react"
-import { Link, graphql, navigate } from "gatsby"
+import React from "react"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Identity from "../components/identity"
 
-import image from '../images/pizzicato.png'
+
 
 const extractIdentities = data => data.main.edges[0].node.childMarkdownRemark.frontmatter.identities
 
@@ -17,8 +17,6 @@ const HomePage = ({ data, path }) => {
     <SEO title="Home" />
     {identities.map(identity => <Identity {...identity} />)}
   </Layout>)
-  // return <img src={image} style={{width: '100%', margin: '40px 0px'}}/>
-/*)*/
 }
 
 export default HomePage

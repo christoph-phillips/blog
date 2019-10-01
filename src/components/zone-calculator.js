@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react"
+import React, { useState } from "react"
 
 import styled, { css } from 'styled-components'
 import queryString from 'query-string'
@@ -55,9 +55,8 @@ const zones = [
 	Zone('4', 'Lactate Threshold', '1 Hour', 0.88, 0.95),
 	Zone('5', 'VO2 Max', '3 - 5 Minutes', 0.95, 0.98),
 ]
-
 const createZoneRow = (zone, maxHr) => (
-	<Row>
+	<Row key={zone.name}>
 		<Cell>{zone.name}</Cell>
 		<Cell>{zone.description}</Cell>
 		<Cell>{zone.duration}</Cell>
@@ -67,13 +66,13 @@ const createZoneRow = (zone, maxHr) => (
 )
 
 const ZoneCalculator = ({ search }) => {
-	const { hr, onChange, query } = useHeartRate(search)
+	const { hr, onChange } = useHeartRate(search)
   return (<Container>
   	<Title>Heart Rate Zone Calculator</Title>
   	<Description>Enter max heart rate</Description>
     <Input maxLength="3" onChange={onChange} value={hr}/> bpm
     <Table show={isValidHr(hr)}>
-    	<Row>{headings.map(heading => <Cell>{heading}</Cell>)}</Row>
+    	<Row>{headings.map(heading => <Cell key={heading}>{heading}</Cell>)}</Row>
     	{zones.map(zone => createZoneRow(zone, hr))}
     </Table>
     { isValidHr(hr) && <Description>Copy the url above and visit when you need a reference</Description> }

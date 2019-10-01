@@ -1,5 +1,4 @@
-import React, { useEffect } from "react"
-import { Link, graphql, navigate } from "gatsby"
+import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"

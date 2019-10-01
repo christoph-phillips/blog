@@ -3,13 +3,11 @@ import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import showdown from 'showdown'
 
-import styled, { css } from 'styled-components'
+import styled from 'styled-components'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { Newsletter } from "../components/form"
-
-import githubLogo from "../images/github.png"
 
 import { extension } from '../extensions/showdown-figure'
 
@@ -17,15 +15,12 @@ const Head = styled.div`
   text-align: center;
 `
 const Title = styled.h1``
-const Subtitle = styled.h3``
 const Content = styled.div``
-const ExternalLink = styled.a``
-const GithubLink = styled.img`
-`
+
 const converter = new showdown.Converter({tables: true, emoji: true, extensions: [extension]})
 export default ({ data }) => {
 
-  const { title, type, image, intro, main } = data.post.frontmatter
+  const { title, image, intro, main } = data.post.frontmatter
   return (
       <Layout>
         <SEO title={title} description={intro} image={image} />

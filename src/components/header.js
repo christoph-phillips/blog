@@ -1,10 +1,9 @@
 import { useStaticQuery, Link } from "gatsby"
 import Img from "gatsby-image"
-// import BackgroundImage from 'gatsby-background-image'
 import PropTypes from "prop-types"
 import React from "react"
 
-import styled, { css } from 'styled-components'
+import styled from 'styled-components'
 
 import strava from "../images/strava.png"
 import github from "../images/github.png"
@@ -93,8 +92,6 @@ const socialLinks = [
 
 const Header = ({ path }) => {
   const { identities } = useHeaderData()
-  
-  console.log(socialLinks)
   return (
   <HeaderContainer>
     <HomeLink to="/">
@@ -120,7 +117,7 @@ const Header = ({ path }) => {
     </LinksContainer>
     <SocialLinks>
       { socialLinks.map(data => (
-           <ExternalLink href={data.link} target={'_blank'}>
+           <ExternalLink key={data.link} href={data.link} target={'_blank'}>
            <SocialIcon
               src={data.icon}
             />
@@ -171,7 +168,6 @@ const useHeaderData = () => {
   }
 }
 `)
-  console.log(data)
   return {
     identities: data.main.edges[0].node.childMarkdownRemark.frontmatter.identities,
   }
