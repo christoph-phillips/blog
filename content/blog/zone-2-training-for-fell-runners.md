@@ -63,9 +63,9 @@ main: >-
 
 
   In absolute terms it lies between 70% and 80% of your max heart rate. You can
-  calculate your personalised heart rate zones with the running calculator I
-  made to accompany these articles here. For me, with a max heart rate of 192,
-  it lies between 134 and 153 bpm.
+  calculate your personalised heart rate zones with the [running calculator
+  ](/calculator)I made to accompany these articles here. For me, with a max
+  heart rate of 192, it lies between 134 and 153 bpm.
 
 
   ## The Benefits
