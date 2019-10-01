@@ -66,8 +66,8 @@ const createZoneRow = (zone, maxHr) => (
 	</Row>
 )
 
-const ZoneCalculator = (search) => {
-	const { hr, onChange, query } = useHeartRate()
+const ZoneCalculator = ({ search }) => {
+	const { hr, onChange, query } = useHeartRate(search)
   return (<Container>
   	<Title>Heart Rate Zone Calculator</Title>
   	<Description>Enter max heart rate</Description>
@@ -82,8 +82,8 @@ const ZoneCalculator = (search) => {
 
 export default ZoneCalculator
 
-function useHeartRate() {
-	const params = queryString.parse(window.location.search);
+function useHeartRate(search) {
+	const params = queryString.parse(search);
 	const [ hr, setHr ] = useState(params.bpm || 0)
 	const onChange = e => {
 		if (isValidHr(e.target.value)) {
