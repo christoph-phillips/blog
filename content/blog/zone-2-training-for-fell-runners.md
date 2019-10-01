@@ -312,7 +312,7 @@ main: >-
 
 
   Here's a picture of my winning ceremony at the lost Shepherd Fell race, where
-  the field fell apart and I was able to keep going thanks to Zone 2 training.
+  the field slowed down and I was able to keep going thanks to Zone 2 training.
 
 
   ![I consider Zone 2 training responsible for my wins at longer
