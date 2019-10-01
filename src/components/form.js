@@ -26,6 +26,7 @@ const newsletterProps = {
 	name: 'newsletter'
 }
 
+
 const Form = ({fields, info, name}) => {
 	return (
 		<FormContainer>
@@ -50,4 +51,3 @@ export const Newsletter = () => {
 		<Form {...newsletterProps} />
 	)
 }
-

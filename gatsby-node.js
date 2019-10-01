@@ -38,7 +38,6 @@ exports.createPages = async ({ graphql, actions }) => {
     }
   `)
   result.data.posts.edges.forEach(({ node }) => {
-    console.log(JSON.stringify(node))
     createPage({
       path: node.fields.slug,
       component: path.resolve(`./src/templates/blog-template.js`),
@@ -50,7 +49,6 @@ exports.createPages = async ({ graphql, actions }) => {
     })
   })
   result.data.portfolio.edges.forEach(({ node }) => {
-    console.log(JSON.stringify(node))
     createPage({
       path: node.fields.slug,
       component: path.resolve(`./src/templates/portfolio-template.js`),
