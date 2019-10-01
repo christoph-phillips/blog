@@ -31,13 +31,13 @@ const Form = ({fields, info, name}) => {
 	return (
 		<FormContainer>
 			<Info>{info}</Info>
-			<FormElement name={name} netlify method="POST" data-netlify="true">
+			<FormElement name={name} netlify method="POST">
 				{ fields.map(field => 
 					 	(<Fragment>
 						<Input type={field.type} name={field.name} placeholder={field.name} />
 						</Fragment>)
 				)}
-			<Submit type="submit">Submit</Submit>
+				<Submit type="submit">Submit</Submit>
 			</FormElement>
 			
 		</FormContainer>
