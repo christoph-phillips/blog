@@ -12,6 +12,7 @@ const Title = styled.h1``
 const Description = styled.p``
 const Input = styled.input`
 	width: 50px;
+	text-align: center;
 `
 const Table = styled.div`
 	width: 100%;
@@ -85,8 +86,10 @@ function useHeartRate() {
 	const params = queryString.parse(window.location.search);
 	const [ hr, setHr ] = useState(params.bpm || 0)
 	const onChange = e => {
-		if (isValidHr) {
+		if (isValidHr(e.target.value)) {
 			navigate('/calculator?bpm=' + e.target.value)
+		} else {
+			navigate('/calculator')
 		}
 		setHr(e.target.value)
 	}

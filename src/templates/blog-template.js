@@ -7,6 +7,7 @@ import styled, { css } from 'styled-components'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import { Newsletter } from "../components/form"
 
 import githubLogo from "../images/github.png"
 
@@ -37,6 +38,7 @@ export default ({ data }) => {
           <Title>{title}</Title>
         </Head>
         <Content className="post" dangerouslySetInnerHTML={{__html: converter.makeHtml(main) }}/>
+        <Newsletter />
       </Layout>
   )
 }
