@@ -136,8 +136,8 @@ main: >-
 
 
   Next you need to work out your Zone 2 heart rate. You can do this using the
-  calculator here. Just input your maximum heart rate and take the Zone 2
-  figures. 
+  calculator [here](/calculator). Just input your maximum heart rate and take
+  the Zone 2 figures. 
 
 
   The difficult thing is then putting it into practice for your next run. You
