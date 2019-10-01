@@ -38,8 +38,9 @@ const Form = ({fields, info, name}) => {
 						<Input type={field.type} name={field.name} placeholder={field.name} />
 						</Fragment>)
 				)}
+			<Submit type="submit">Submit</Submit>
 			</FormElement>
-			<Submit type="submit" />
+			
 		</FormContainer>
 
 	)
