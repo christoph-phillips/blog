@@ -63,9 +63,9 @@ main: >-
 
 
   In absolute terms it lies between 70% and 80% of your max heart rate. You can
-  calculate your personalised heart rate zones with the running calculator I
-  made to accompany these articles here. For me, with a max heart rate of 192,
-  it lies between 134 and 153 bpm.
+  calculate your personalised heart rate zones with the [running calculator
+  ](/calculator)I made to accompany these articles here. For me, with a max
+  heart rate of 192, it lies between 134 and 153 bpm.
 
 
   ## The Benefits
@@ -164,13 +164,6 @@ main: >-
   it's equivalent metabolically to doing it on a run.
 
 
-  Some people have asked me about the quantity of Zone 2 training. I feel that
-  in the beginning you should keep the same mileage and duration as before, just
-  prevent yourself running in higher and lower zones for most of your running.
-  You will soon find you can start to increase your mileage as your intensity
-  reduces. 
-
-
   ## A balanced training schedule?
 
 
@@ -185,6 +178,13 @@ main: >-
 
   So you can still do your hill repeats and specifically targeted tempo runs.
   Just slow down on those runs which you used to get carried away on. 
+
+
+  Some people have asked me about the quantity of Zone 2 training. I feel that
+  in the beginning you should keep the same mileage and duration as before, just
+  prevent yourself running in higher and lower zones for most of your running.
+  You will soon find you can start to increase your mileage as your intensity is
+  reduced. 
 
 
   ## Overcoming Zone 2 challenges
@@ -294,8 +294,8 @@ main: >-
 
 
   My heart rate was much lower in races. Not peaking in the 186bpm range it used
-  to. 82bpm felt like practically sprinting, which means I could go stronger for
-  longer and races didn't leave me as fatigued. I noticed I could race more
+  to. 182bpm felt like practically sprinting, which means I could go stronger
+  for longer and races didn't leave me as fatigued. I noticed I could race more
   often competitively, still recover, and get my other sessions done.
 
 
