@@ -31,7 +31,7 @@ const Form = ({fields, info, name}) => {
 	return (
 		<FormContainer>
 			<Info>{info}</Info>
-			<FormElement name={name} netlify method="POST">
+			<FormElement name={name} netlify method="POST" action="/success">
 				{ fields.map(field => 
 					 	(<Fragment>
 						<Input type={field.type} name={field.name} placeholder={field.name} />
