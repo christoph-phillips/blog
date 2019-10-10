@@ -31,12 +31,16 @@ const LinksContainer = styled.div`
   vertical-align: center;
   text-align: center;
   width: 60%;
+  @media (max-width: 540px) {
+    width: 100%;
+	}
 `
 
 const NavLinks = styled.div`
   display: flex;
   flex-direction: row;
   height: 75px;
+  
 `
 const NavLink = styled(Link)`
   text-decoration: none;
@@ -53,6 +57,9 @@ const HomeLink = styled(Link)`
   text-transform: uppercase;
   font-family: Montserrat;
   width: 20%;
+  @media (max-width: 540px) {
+    display: none;
+	}
 `
 
 const ProfileImage = styled(Img)`
@@ -67,6 +74,9 @@ const SocialLinks = styled.div`
   display: flex;
   align-items: right;
   justify-content: flex-end;
+  @media (max-width: 540px) {
+    display: none;
+	}
 `
 const ExternalLink = styled.a``
 const SocialIcon = styled.img`

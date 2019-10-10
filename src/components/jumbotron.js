@@ -83,7 +83,7 @@ const CTA = styled.a`
         color: white;
     }
     @media (max-width: 768px) {
-        margin: 0px auto;
+        margin: -10px auto 10px auto;
     }
 `
 

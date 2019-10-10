@@ -20,7 +20,7 @@ const extractFeatured = data => {
   }
 }
 
-const Subtitle = styled.h3`
+const Subtitle = styled.h2`
   text-align: center;
 `
 
