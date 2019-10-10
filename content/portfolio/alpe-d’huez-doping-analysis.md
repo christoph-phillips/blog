@@ -1,5 +1,6 @@
 ---
 title: Alpe D’Huez Doping Analysis
+featured: false
 type:
   - data
 created: 2019-09-18T13:06:35.541Z
@@ -7,9 +8,14 @@ image: /assets/doping.png
 intro: An interactive analysis of doping allegations for TDF riders.
 description: >-
   Using D3 to bind data to the DOM, this scatter graph shows the times of top
-  riders on the climb of Alpe D'Huez in the Tour De France. The riders are color
-  coordinated by doping allegations and a tooltip is produced when hovered over
-  to display the type of allegations that have been made against the rider.
+  riders on the climb of Alpe D'Huez in the Tour De France. 
+
+
+  The riders are color coordinated by doping allegations and a tooltip is
+  produced when hovered over to display the type of allegations that have been
+  made against the rider. 
+
+
   Animation is used on startup for a great introductory effect, as well as a key
   so the styling is easily understood by the user. The data comes from a JSON
   API endpoint.
