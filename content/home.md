@@ -14,7 +14,6 @@ identities:
     profileimage: /assets/developer.jpg
   - identity: athlete
     images:
-      - /assets/68246875_10157833366156282_171028479649775616_n.jpg
       - /assets/crowden.jpg
       - /assets/sunset.jpg
       - /assets/annapurna2.jpg
