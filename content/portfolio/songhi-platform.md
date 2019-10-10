@@ -9,10 +9,12 @@ intro: A community platform for sharing and remixing your songs
 description: >-
   Songhi Platform accompanied the Songhi Studio as the place to share your
   musical creations and discover new ideas. Users can browse the public songs of
-  the community and remix them to discover more how other people compose. There
-  are a range of competitions to enter with prizes available for the winners. A
-  next gen forum is embedded so people can discuss their creations and share
-  inspiring ideas. 
+  the community and remix them to discover more how other people compose. 
+
+
+  There are a range of competitions to enter with prizes available for the
+  winners and a next gen forum is embedded so people can discuss their creations
+  and share inspiring ideas. 
 
 
   For the frontend with used React and Apollo for state management and consuming
