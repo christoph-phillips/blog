@@ -3,12 +3,12 @@ import { Link } from "gatsby"
 import Img from "gatsby-image"
 
 import styled from 'styled-components'
+import moment from 'moment'
 
 export const Container = styled.div`
-  width: 100%;
-  height: 100%;
   display: flex;
   flex-direction: column;
+  align-items: center;
 `
 
 const ItemContainer = styled(Link)`
@@ -26,14 +26,10 @@ const ItemContainer = styled(Link)`
   }
 `
 
-const ItemImage = styled(Img)`
-  width: 400px;
-  height: auto;
-  max-height: 200px;
-  max-width: 100%;
-  height: 100%;
+const ImageContainer = styled.div`
   margin: 0px auto;
 `
+const ItemImage = styled(Img)``
 
 const ItemInfo = styled.div`
   width: calc(100% - 400px);
@@ -42,31 +38,36 @@ const ItemInfo = styled.div`
   }
   display: flex;
   flex-direction: column;
+  margin: 10px;
 `
 
 const ItemTitle = styled.h2`
-  margin: 5px 5px;
+  margin: 10px 0px;
 `
 const ItemDate= styled.h5`
-  margin: 5px 5px;
-  font-size: 12px;
+  font-size: 16px;
+  font-weight: bolder;
+  margin-bottom: 12px;
 `
 
-const ItemSubtitle = styled.h5`
-  margin: 10px 5px;
+const ItemSubtitle = styled.p`
+  max-width: 600px;
 `
+
 
 const BlogItem = ({ image, title, intro, slug, created }) => {
   return (
   <ItemContainer to={slug}>
+    <ImageContainer>
     <ItemImage 
       fixed={image.childImageSharp.fixed}
       objectFit="cover"
       objectPosition="50% 50%"
     />
+    </ImageContainer>
     <ItemInfo>
-      <ItemDate>{created}</ItemDate>
       <ItemTitle>{title}</ItemTitle>
+      <ItemDate>{moment(created).format("DD-MM-YYYY")}</ItemDate>
       <ItemSubtitle>{intro}</ItemSubtitle>
     </ItemInfo>
   </ItemContainer>

@@ -1,8 +1,10 @@
 import { Link } from "gatsby"
-import BackgroundImage from 'gatsby-background-image'
+import Img from 'gatsby-image'
 import React, { useRef, useState, useEffect } from "react"
 
 import styled, { css } from 'styled-components'
+
+import { theme } from './theme'
 
 export const Container = styled.div`
   width: 100%;
@@ -13,81 +15,81 @@ export const Container = styled.div`
   vertical-align: center;
   justify-content: center;
   ${props => props.outline && css`
-    border-bottom: 1px solid black;
+    background: ${theme.background};
     margin-bottom: 50px;
     padding: 50px 0px;
   `}
 `
 
 const ItemContainer = styled(Link)`
-  width: 250px;
-  height: 150px;
-  margin: 10px;
+  width: 300px;
+  height: 400px;
   cursor: pointer;
+  text-decoration: none;
+  margin: 5px;
+  padding: 10px 5px;
+  transition: all 0.2s ease;
+  ${props => props.hovered && css`
+    background: ${props.featured ? 'white' : theme.background};
+    border-radius: 2px;
+  `}
+
 `
 
-const ItemBackground = styled(BackgroundImage)`
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  background-color: white;
+const Image = styled.div`
+  width: 300px;
+  height: 175px;
 `
-
-const Overlay = styled.div`
-  width: 100%;
-  height: 100%;
-  background: gray;
-  opacity: 0.8;
-  position: absolute;
-  left: 0;
-  top: 0;
-  z-index: -1;
-  border-radius: 2px;
+const ItemBackground = styled(Img)`
 `
 
 const ItemInfo = styled.div`
-  width: 100%;
-  height: 100%;
   display: flex;
   flex-wrap: wrap;
   padding: 15px;
-  text-align: center;
   color: white;
-  position: absolute;
-  left: 0;
-  top: 0;
-  opacity: 0;
-  transition: all 0.5s ease;
-  ${props => props.hovered && css`
-    opacity: 1;
-  `}
+  
 `
 
-const ItemTitle = styled.h2`
+const ItemTitle = styled.h4`
   width: 100%;
   font-size: 25px;
   margin: 0px 0px 10px 0px;
+  color: #171717;
+  font-size: 1.25rem;
+  font-family: Montserrat;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: all 0.5s ease;
+  ${props => props.hovered && css`
+    color: ${theme.primaryColor};
+  `}
 `
 
-const ItemSubtitle = styled.h4`
+const ItemSubtitle = styled.p`
   font-size: 15px;
+  text-decoration: none;
+  transition: all 0.5s ease;
+  ${props => props.hovered && css`
+  color: ${theme.primaryColor};
+  `}
 `
 
-const PortfolioItem = ({ image, title, intro, slug }) => {
+const PortfolioItem = ({ image, title, intro, slug, featured }) => {
   const [ ref, hovered ] = useHover()
   return (
-  <ItemContainer to={slug} ref={ref}>
-    <ItemBackground
-      Tag="div"
-      fluid={image && image.childImageSharp.fluid}
-      style={{ height: '100%', width: '100%'}}
-    >
-    <ItemInfo hovered={hovered}>
-      <ItemTitle>{title}</ItemTitle>
-      <ItemSubtitle>{intro}</ItemSubtitle>
-      <Overlay />
+  <ItemContainer to={slug} ref={ref} hovered={hovered} featured={featured}>
+    <Image hovered={hovered}>
+      <ItemBackground
+        Tag="div"
+        fixed={image && image.childImageSharp.fixed}
+        style={{ height: '100%', width: '100%'}}
+      />
+    </Image>
+    <ItemInfo>
+      <ItemTitle hovered={hovered}>{title}</ItemTitle>
+      <ItemSubtitle hovered={hovered}>{intro}</ItemSubtitle>
     </ItemInfo>
-  </ItemBackground>
   </ItemContainer>
 )
 }

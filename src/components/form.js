@@ -2,17 +2,38 @@
 import React, { Fragment } from "react"
 
 import styled from 'styled-components'
+import { theme } from './theme'
 
 const FormContainer = styled.div`
   border-top: 0;
-  border: 1px solid gray;
-  padding: 20px;
+  padding: 50px;
   text-align: center;
+  width: 100%;
+
+  background: ${theme.background};
 `
-const FormElement = styled.form``
-const Input = styled.input``
-const Info = styled.p``
+const FormElement = styled.form`
+	display: flex;
+	flex-direction: column;
+	max-width: 300px;
+	margin: 0px auto;
+`
+const Input = styled.input`
+	margin-top: 10px;
+	color: ${theme.primaryColor};
+	text-align: center;
+	border: 2px solid ${theme.secondaryColor};
+	::placeholder {
+		color: ${theme.primaryColor};
+	}
+`
+const Info = styled.h4``
 const Submit = styled.button`
+	color: ${theme.primaryColor};
+	margin-top: 10px;
+	background: 0;
+	border: 2px solid ${theme.secondaryColor};
+    background: 0;
 `
 
 const newsletterProps = {
@@ -39,9 +60,7 @@ const Form = ({fields, info, name}) => {
 				)}
 				<Submit type="submit">Submit</Submit>
 			</FormElement>
-			
 		</FormContainer>
-
 	)
 }
 

@@ -15,7 +15,10 @@ const formatBlogData = (data) => {
 
 const Blog = (props) => {
   const blogData = formatBlogData(props.data.posts.edges)
-  return (<Layout>
+  return (<Layout
+      title="Latest Blog Posts"
+      subtitle="Interesting learnings from the field of sports science and mental resilience"
+    >
     <SEO title="Blog" />
     <Container>
       {blogData.map(item => <BlogItem { ...item } />)}

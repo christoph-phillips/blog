@@ -68,7 +68,6 @@ const createZoneRow = (zone, maxHr) => (
 const ZoneCalculator = ({ search }) => {
 	const { hr, onChange } = useHeartRate(search)
   return (<Container>
-  	<Title>Heart Rate Zone Calculator</Title>
   	<Description>Enter max heart rate</Description>
     <Input maxLength="3" onChange={onChange} value={hr}/> bpm
     <Table show={isValidHr(hr)}>

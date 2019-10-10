@@ -1,7 +1,9 @@
 import React from "react"
+import styled from "styled-components"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import PortfolioItem, { Container } from "../components/portfolio-item"
+import { theme } from "../components/theme"
 
 const formatData = (data) => {
   return data.map(post => {
@@ -18,15 +20,33 @@ const extractFeatured = data => {
   }
 }
 
+const Subtitle = styled.h3`
+  text-align: center;
+`
+
+const Section = styled.section`
+  width: 100%;
+  padding: 40px;
+  margin: 100px 0;
+  margin-top: -50px;
+  background: ${theme.background};
+`
+
 const Portfolio = (props) => {
   const portfolioData = formatData(props.data.portfolio.edges)
   const { featured, notFeatured } = extractFeatured(portfolioData)
   console.log({ featured, notFeatured })
-  return (<Layout>
+  return (<Layout
+      title="Portfolio"
+      subtitle="Challenges, accomplisments, fun, creativity"
+    >
     <SEO title="Portfolio" />
-    <Container outline>
-      {featured.map(item => <PortfolioItem { ...item } />)}
-    </Container>
+    <Section>
+      <Subtitle>Featured</Subtitle>
+      <Container>
+        {featured.map(item => <PortfolioItem { ...item } featured />)}
+      </Container>
+    </Section>
     <Container>
       {notFeatured.map(item => <PortfolioItem { ...item } />)}
     </Container>
@@ -55,6 +75,9 @@ export const query = graphql`
                 childImageSharp  {
                     fluid (maxWidth: 1000, quality: 100) {
                       ...GatsbyImageSharpFluid
+                    }
+                    fixed (quality: 100) {
+                      ...GatsbyImageSharpFixed
                     }
                   }
               }

@@ -13,9 +13,13 @@ const extractIdentities = data => data.main.edges[0].node.childMarkdownRemark.fr
 const HomePage = ({ data, path }) => {
   const identities = extractIdentities(data)
   
-  return (<Layout path={path}>
+  return (<Layout 
+      path={path}
+      title='Chris Phillips'
+      subtitle="Full Stack Developer, Athlete, Coach"
+    >
     <SEO title="Home" />
-    {identities.map(identity => <Identity {...identity} />)}
+    {identities.map((identity, i) => <Identity {...identity} i={i} />)}
   </Layout>)
 }
 

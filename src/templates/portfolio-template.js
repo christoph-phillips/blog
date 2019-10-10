@@ -6,37 +6,52 @@ import styled from 'styled-components'
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Jumbotron from "../components/jumbotron"
 
 import githubLogo from "../images/github.png"
+import { theme } from "../components/theme"
 
 const Title = styled.h1``
-const Subtitle = styled.h3``
-const Content = styled.div``
-const ExternalLink = styled.a``
+const Subtitle = styled.h3`
+  text-align: center;
+`
+const Content = styled.div`
+`
+
+const Section = styled.section`
+  background: ${theme.background};
+  width: 100%;
+  padding: 40px;
+  margin: 100px 0;
+`
+
 const GithubLink = styled.img`
 `
 const converter = new showdown.Converter()
 export default ({ data }) => {
-  const { title, image, description, features, link, github } = data.post.frontmatter
+  const { title, created, image, description, features, link, github, intro } = data.post.frontmatter
   return (
       <Layout>
         <SEO title={title} />
-        <ExternalLink href={link} target={'_blank'}>
-          <Img
-            fixed={image.childImageSharp.fixed}
-            objectFit="cover"
-            objectPosition="50% 50%"
-          />
-        </ExternalLink>
-        <Title>{title}</Title>
-        { github && <ExternalLink href={github} target={'_blank'}>
+        <Jumbotron 
+          title={title}
+          intro={intro}
+          image={image}
+          cta={{
+            text: 'View',
+            link: link
+          }}
+        />
+        { /* github && <ExternalLink href={github} target={'_blank'}>
          <GithubLink
             src={githubLogo}
           />
-        </ExternalLink> }
+        </ExternalLink> */ }
         <Content dangerouslySetInnerHTML={{__html: converter.makeHtml(description) }}/>
-        <Subtitle>Features</Subtitle>
-        <Content dangerouslySetInnerHTML={{__html: converter.makeHtml(features) }}/>
+        <Section>
+          <Subtitle>Features</Subtitle>
+          <Content dangerouslySetInnerHTML={{__html: converter.makeHtml(features) }}/>
+        </Section> 
       </Layout>
   )
 }
@@ -54,6 +69,9 @@ export const query = graphql`
             childImageSharp  {
                 fixed(quality: 100) {
                   ...GatsbyImageSharpFixed
+                }
+                fluid(quality: 100) {
+                  ...GatsbyImageSharpFluid
                 }
               }
           }

@@ -1,13 +1,16 @@
 import { useStaticQuery, Link } from "gatsby"
 import Img from "gatsby-image"
 import PropTypes from "prop-types"
-import React from "react"
+import React, { Fragment } from "react"
 
 import styled from 'styled-components'
+
+import { theme, animations } from './theme'
 
 import strava from "../images/strava.png"
 import github from "../images/github.png"
 import linkedin from "../images/linkedin.png"
+
 
 const HeaderContainer = styled.header`
   position: fixed;
@@ -15,9 +18,8 @@ const HeaderContainer = styled.header`
   left: 0;
   width: 100%;
   height: 75px;
-  border-bottom: 1px solid gray;
   display: flex;
-  background: white;
+  background: ${theme.background};
   z-index: 9999;
 `
 
@@ -42,7 +44,9 @@ const NavLink = styled(Link)`
   font-family: Montserrat;
   margin: 25px 10px;
   font-weight: bold;
-  color: gray;
+  font-size: 15px;
+  letter-spacing: 0.1rem;
+  color: ${theme.primaryColor};
 `
 const HomeLink = styled(Link)`
   font-weight: bolder;
@@ -70,6 +74,24 @@ const SocialIcon = styled.img`
   height: 32px;
   margin: 21px 21px 0px 0px;
 `
+const Jumbotron = styled.div`
+  width: 100%;
+  margin-top: 75px;
+  height: 400px;
+  background: ${theme.background};
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  vertical-align: center;
+  justify-content: center;
+  text-align: center;
+`
+const Title = styled.h1`
+  animation: ${animations.fadeIn} 0.5s linear;
+`
+const Subtitle = styled.h4`
+  animation: ${animations.fadeIn} 1s linear;
+`
 
 const links = [ 'home', 'blog', 'portfolio' ]
 const socialLinks = [
@@ -90,50 +112,48 @@ const socialLinks = [
   }
 ]
 
-const Header = ({ path }) => {
+const Header = ({ path, title, subtitle }) => {
   const { identities } = useHeaderData()
   return (
-  <HeaderContainer>
-    <HomeLink to="/">
-      <ProfileImage
-        fixed={identities[0].profileimage.childImageSharp.fixed}
-        objectFit="cover"
-        objectPosition="50% 50%"
-      />
-    </HomeLink>
-    <LinksContainer>
-      <NavLinks>
-        {
-          links.map(link => <NavLink 
-            key={link} 
-            to={`/${link === 'home' ? '' : link}`}
-            activeStyle={{ color: 'black' }}
-            partiallyActive={link !== 'home'}
-          >
-            {link}
-          </NavLink>)
-        }
-      </NavLinks>
-    </LinksContainer>
-    <SocialLinks>
-      { socialLinks.map(data => (
-           <ExternalLink key={data.link} href={data.link} target={'_blank'}>
-           <SocialIcon
-              src={data.icon}
-            />
-          </ExternalLink>
-        ))}
-    </SocialLinks>
-  </HeaderContainer>
+  <Fragment>
+    <HeaderContainer>
+      <HomeLink to="/">
+        <ProfileImage
+          fixed={identities[0].profileimage.childImageSharp.fixed}
+          objectFit="cover"
+          objectPosition="50% 50%"
+        />
+      </HomeLink>
+      <LinksContainer>
+        <NavLinks>
+          {
+            links.map(link => <NavLink 
+              key={link} 
+              to={`/${link === 'home' ? '' : link}`}
+              activeStyle={{ borderBottom: `2px solid ${theme.primaryColor}` }}
+              partiallyActive={link !== 'home'}
+            >
+              {link}
+            </NavLink>)
+          }
+        </NavLinks>
+      </LinksContainer>
+      <SocialLinks>
+        { socialLinks.map(data => (
+            <ExternalLink key={data.link} href={data.link} target={'_blank'}>
+            <SocialIcon
+                src={data.icon}
+              />
+            </ExternalLink>
+          ))}
+      </SocialLinks>
+    </HeaderContainer>
+    <Jumbotron>
+      <Title>{title}</Title>
+      <Subtitle>{subtitle}</Subtitle>
+    </Jumbotron>
+  </Fragment>
 )
-}
-
-Header.propTypes = {
-  siteTitle: PropTypes.string,
-}
-
-Header.defaultProps = {
-  siteTitle: ``,
 }
 
 export default Header
