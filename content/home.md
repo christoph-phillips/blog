@@ -6,7 +6,6 @@ identities:
       - /assets/arcticintelligence.png
       - /assets/funacademy.png
       - /assets/iglu.png
-      - /assets/moreyes.png
       - /assets/songhi.png
     intro: >-
       I work with and consult for a wide range of organisations from Finland,
