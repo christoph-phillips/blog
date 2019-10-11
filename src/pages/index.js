@@ -51,7 +51,10 @@ export const query = graphql`
 	                childImageSharp {
 	                    fixed(height: 250) {
 	                      ...GatsbyImageSharpFixed
-	                    }
+                      }
+                      fluid {
+                        ...GatsbyImageSharpFluid
+                      }
 	                }
               	}
             }

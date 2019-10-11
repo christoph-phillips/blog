@@ -20,6 +20,8 @@ const ProfileImage = styled(Img)`
 	margin: 20px 40px;
 	@media (max-width: 768px) {
 		margin: 20px auto;
+		width: 200px!important;
+		height: 200px!important;
 	}
 `
 
@@ -65,7 +67,7 @@ const Identity = ({ profileimage, intro, identity, images, i }) => {
 		</Details>
   	</About>
 	  <ImageContainer>
-	{ images.map(image => image && (<IdentityImage
+	{ images && images.map(image => image && (<IdentityImage
 		fixed={image.childImageSharp.fixed}
 	/>))}
 	</ImageContainer>
