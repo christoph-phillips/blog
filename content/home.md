@@ -1,6 +1,6 @@
 ---
 identities:
-  - identity: </> developer </>
+  - identity: developer
     images:
       - /assets/sumo.png
       - /assets/arcticintelligence.png
