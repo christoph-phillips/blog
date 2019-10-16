@@ -7,8 +7,8 @@ type:
 created: 2019-09-30T10:28:07.752Z
 image: /assets/68246875_10157833366156282_171028479649775616_n.jpg
 intro: >-
-  Stuck in a rut? Not improving? Zone 2 training will transform your training
-  and racing, making you a more resilient, happier and healthier runner.
+  Stuck in a rut? Not improving? Zone 2 training will transform your running,
+  making you more resilient, happier and healthier.
 main: >-
   I rarely see fell runners training by heart rate. It seems actively looked
   down upon as many fell runners eschew the modern world of navigation and
@@ -21,7 +21,7 @@ main: >-
   specifically due to increasing my Zone 2 sessions.
 
 
-  ## The Problem With Just Running
+  ## Running Blind Will Not Make You Faster 
 
 
   Training without the guidance of a heart rate monitor means training blind.
@@ -29,7 +29,7 @@ main: >-
   they are holding it for.
 
 
-  In practice this means that fell runners train often at a level which is
+  In practice this means that fell runners often train at a level which is
   maintainable for 2 - 4 hours, what we can call tempo or Zone 3 running. It
   feels tough, it feels exciting, it can make you feel strong, but it will
   prevent you moving forward as a runner. It's called the 'dead zone' for a
@@ -47,8 +47,9 @@ main: >-
   slower as the race goes on. 
 
 
-  Zone 2 sessions will reverse this trend. It will help you get faster as races
-  go on, recover quickly from training, and become stronger to avoid injury.
+  Zone 2 sessions can help to reverse this trend. They will help you get faster
+  as races go on, recover quickly from training, and become stronger to avoid
+  injury.
 
 
   ## What is Zone 2?
@@ -73,42 +74,45 @@ main: >-
 
   Zone 2 training has its biggest effect on your metabolism. At this intensity
   you are able to burn fat rather than carbs as your main source of fuel. You
-  only have enough carbs for 90 minutes of intense exercise. You have enough
-  energy in your fat stores to last days. Improving your ability to burn fat
-  means you have an extra energy store previously unavailable to you. Combined
-  with fasted training (another article coming soon), it will change the way you
-  feel, train, and race.
+  only have enough carbs for 90 minutes of exercise. You have enough energy in
+  your fat stores to last days. Improving your ability to burn fat means you
+  have an extra energy store previously unavailable to you. Combined with fasted
+  training (another article coming soon), it will change the way you feel,
+  train, and race.
 
 
-  It's not just fats though. Zone 2 intensity increases your muscle glycogen
-  storage, which means you can store more carbs to go stronger for longer at
-  higher intensities. It even improves your ability to clear lactate from your
-  blood, essential for shorter efforts such as 10k distances. Your muscles also
-  have an increased number of capillaries which improve your ability to process
-  oxygen at all intensities.
+  It's not just fats though. 
+
+
+  Zone 2 intensity increases your muscle glycogen storage, which means you can
+  store more carbs to go stronger for longer at higher intensities. 
+
+
+  Your muscle capillaries increase in number which improve your ability to
+  process oxygen at all intensities.
 
 
   Your heart gets bigger. You have improved stroke volume and maximal cardiac
   output. This means you can push more blood around the body to deliver oxygen
-  to your muscles.
+  to your body.
 
 
-  Higher intensity running clearly does the above too. But you can't do as much
-  of it without burning out. This means Zone 2 training gives you more
-  adaptation in the long run. Training in this zone will improve your ability to
-  recover and manage fatigue, whilst still giving you the physiological stress
-  to improve.
+  Higher intensity running clearly does the above things too. But you can't do
+  as much of it without burning out. You can spend a lot of time in Zone 2
+  without being hindered by a buildup of fatigue. In fact, it will improve your
+  ability to recover and manage fatigue, whilst still giving you the
+  physiological stress to improve.
 
 
   Zone 2 training will improve your pacing and lower your heart rate across the
   board for all intensities. You will be able to push your faster sessions and
-  go longer. You will get crowns on Strava!
+  go longer. 
 
 
   For racing you will find that you will be going much faster on the flatter and
   downhill sections, whilst still maintaining a high speed up hills. You will
   get faster, rather than slower as races progress. You will have more
-  confidence in your ability. You will pass people you never thought you would.
+  confidence in your ability. 
 
 
   There is no better zone for maintaining positive mental health. When you run
@@ -120,9 +124,8 @@ main: >-
 
   Your diet will change. You will no longer need those sweet things to keep your
   energy levels up as you will burn more fat in daily life. You won't need to
-  eat for high intensity runs less than 2 hours. You won't need to eat at all
-  for your long runs up to 3 hours. This diet change will lead to weight loss, a
-  key in training and racing faster for free.
+  eat for high intensity runs less than 2 hours. Now I don't eat at all for long
+  runs up to 3 hours. 
 
 
   ## How to train in Zone 2?
@@ -140,15 +143,20 @@ main: >-
   the Zone 2 figures. 
 
 
-  The difficult thing is then putting it into practice for your next run. You
-  need to keep your heart rate somewhere between the upper and lower limits. It
-  will definitely mean that you have to slow down drastically on any hill. It
-  might mean you have to run faster on the flats and downs. 
+  The difficult thing is then putting it into practice for your next run. 
 
 
-  You have to keep the zone consistent. Any foray into the Zone 3 will cause a
-  reset in the fat adaptation as your body switches to burning carbs. Any lower
-  and you won't elicit enough stress to give benefits.
+  **You need to keep your heart rate somewhere between the upper and lower
+  limits for the duration of the run**. It will definitely mean that you have to
+  slow down drastically on any hill. It might mean you have to run faster on the
+  flats and downs. 
+
+
+  **You have to keep the zone consistent**. Any movement into the Zone 3 for a
+  period of time can cause a delay in the fat adaptation as your body switches
+  to burning carbs. Any lower and you won't elicit enough stress to give
+  benefits. Your goal is to maximise your time at Zone 2 for the entire run, not
+  pushing too hard or too easy at any point.
 
 
   I find the best way of doing this is to turn off all fields on my running
@@ -167,24 +175,18 @@ main: >-
   ## A balanced training schedule?
 
 
-  Zone 2 training is not everything. It should be incorporated into a varied
-  training routine that works other systems, depending on your targets in terms
-  of training, racing, and lifestyle. I think the best place to start is to
-  consciously replace those runs where your heart rate / intensity was in Zone
-  3, with Zone 2 running. The goal is to provide stimulus for your body to
-  adapt, and training in the 'dead zone' for most of your runs will not do
-  this. 
+  Zone 2 training is not everything. 
 
 
-  So you can still do your hill repeats and specifically targeted tempo runs.
-  Just slow down on those runs which you used to get carried away on. 
+  It should be incorporated into a varied training routine that works other
+  intensities. 
 
 
-  Some people have asked me about the quantity of Zone 2 training. I feel that
-  in the beginning you should keep the same mileage and duration as before, just
-  prevent yourself running in higher and lower zones for most of your running.
-  You will soon find you can start to increase your mileage as your intensity is
-  reduced. 
+  You can still do your hill repeats and specifically targeted tempo runs. 
+
+
+  Just slow down on those runs which you used to get carried away on. Instead,
+  make them a targeted Zone 2 run; a run with a purpose. 
 
 
   ## Overcoming Zone 2 challenges
@@ -195,9 +197,9 @@ main: >-
 
 
   1. **You will have to walk on the hills**. This has the mental effect of
-  making you not feel strong. We are playing the long game here, not satisfying
-  our ego. Try and keep in mind that it will pay off in the weeks and months to
-  come.
+  making you not feel quite weak. We are playing the long game here, not
+  satisfying our ego. Try and keep in mind that it will pay off in the weeks and
+  months to come.
 
 
   ![Walking uphill can be fun
@@ -208,10 +210,10 @@ main: >-
   2. **You will find it difficult to train with others**. Everyone has different
   abilities and training methods. You are going to find that you are further
   behind on shorter runs to begin with, and probably further ahead on longer
-  runs feeling fresher while others bonk or exhaust themselves. If you run with
-  a club, this gives you a really good opportunity to spend more time with the
-  slower runners at the back, enjoying new conversations whilst keeping your own
-  training intact.
+  runs due to improved pacing, feeling fresher while others bonk or exhaust
+  themselves. If you run with a club, this gives you a really good opportunity
+  to spend more time with runners of different abilities, enjoying new
+  conversations whilst keeping your own training intact.
 
 
   ![Spend time running with runners of all abilities while club
@@ -235,9 +237,8 @@ main: >-
 
   Your pace in Zone 2 will increase. This means you will be running the same
   pace in Zone 2 as you used to in Zone 3. It will feel easier and you will be
-  able to hold it for longer. As others around you are breathing heavily, you'll
-  be ticking along knowing that you are training exactly as you need to. Zone 2
-  pace will feel hard on your legs, but you'll be able to do it all day. 
+  able to hold it for longer. Zone 2 pace will feel hard on your legs, but
+  you'll be able to do it all day. 
 
 
   Your stamina and endurance will increase. You will have a better oxygen
@@ -245,9 +246,8 @@ main: >-
   when others are slowing down towards the end of a race.
 
 
-  You will be faster for the same heart rate at higher intensities. You used to
-  run at 170bpm and feel quick, but you'll really feel strong now. You'll shock
-  yourself, you'll feel like a faster runner.
+  You will be faster for the same heart rate at higher intensities. You will be
+  able to hold  harder efforts for longer.
 
 
   Your times in races will improve. In your Zone 2 sessions will get used to
@@ -261,8 +261,8 @@ main: >-
   be faster downhill than you ever thought possible")
 
 
-  You'll recover quickly. You'll be ready for more intense sessions instead of
-  being fatigued. You'll avoid injury. You'll keep consistent. 
+  Recovery will become much faster. You'll be ready for more intense sessions
+  instead of being fatigued. You'll avoid injury. You'll keep consistent. 
 
 
   ## Why Zone 2 made me the runner I am today
@@ -274,23 +274,23 @@ main: >-
   sugary foods.
 
 
-  Last year I began Zone 2 training as the mainstay of my time outdoors,
-  starting with 3 - 4 months of only Zone 2, and then building in other sessions
-  around it as I got stronger.
+  I decided to make a change to my training and began Zone 2 training as the
+  mainstay of my time outdoors. I started with 3 - 4 months of only Zone 2, and
+  then built in other sessions around it as I got stronger.
 
 
   To begin with it was difficult. I felt so slow. I was walking up every hill. I
-  felt like I was a slow runner. My pace on the flat at 145bpm was 9:00 minute
+  felt like I was a slow runner. My pace on the flat in Zone 2 was 9:00 minute
   miles. 
-
-
-  As my pace evened out I noticed a few things. The first was that I was
-  actually keeping up with people on the descents for the first time in my life.
-  I was also faster on the flats than ever. 
 
 
   After 2 months I saw my pace dropping. 8:30 minute miles. Then 7:30 minute
   miles. I felt so strong and I was only going easy. Zone 2 began to feel hard.
+
+
+  My pacing had changed, and running quicker on the descents to keep in the
+  right zone had made me much faster in races. I started passing people on
+  descents (a rare event previously :) )
 
 
   My heart rate was much lower in races. Not peaking in the 186bpm range it used
@@ -299,24 +299,16 @@ main: >-
   often competitively, still recover, and get my other sessions done.
 
 
-  Where am I at now? I can run 7:00 minute miles at 145bpm in Zone 2 on the
-  flats. On hilly runs, I feel strong on all aspects of terrain. My core is
-  stronger. I am confident in my own ability to hold different paces. I don't
-  try and prove anything to anyone. I train at my own paces. I like running with
-  slower runners. I run my own races and don't panic. 
+  Where am I at now? I can run 7:00 minute miles in Zone 2 on the flats. On
+  hilly runs, I feel strong on all aspects of terrain. My core is stronger. I am
+  confident in my own ability to hold different paces. I don't try and prove
+  anything to anyone. I train at my own paces and dont mind running slowly. I
+  like running with runners of different abilities. I run my own races and don't
+  panic. 
 
 
-  I'm really proud of where I've got to and the runner I am today. I hope this
-  can be of benefit to other runners that are caught in the same trap of
-  consistent tempo running. 
-
-
-  Here's a picture of my winning ceremony at the lost Shepherd Fell race, where
-  the field slowed down and I was able to keep going thanks to Zone 2 training.
-
-
-  ![I consider Zone 2 training responsible for my wins at longer
-  races](/assets/lost-shepherd.jpg "I consider Zone 2 training responsible for
-  my wins at longer races")
+  Targeted Zone 2 training transformed my distance running. It's a big
+  commitment. It will take a long time to see the benefits. But trust me, it's
+  something you should try.
 ---
 
