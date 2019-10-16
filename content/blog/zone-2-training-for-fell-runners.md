@@ -5,7 +5,7 @@ type:
   - physical
   - training
 created: 2019-09-30T10:28:07.752Z
-image: /assets/68246875_10157833366156282_171028479649775616_n.jpg
+image: /assets/artur-luczka-bxxwix8_bc4-unsplash.jpg
 intro: >-
   Stuck in a rut? Not improving? Zone 2 training will transform your running,
   making you more resilient, happier and healthier.
