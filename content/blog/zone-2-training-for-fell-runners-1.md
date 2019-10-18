@@ -187,6 +187,13 @@ main: >-
   make them a targeted Zone 2 run; a run with a purpose. 
 
 
+  It is possible to replace all your running with Zone 2 training for a period
+  of time and get great training benefits. It can help in the build phase of a
+  periodised training schedule. It is also very effective if you have been
+  injured or burnt out repeatedly. Try spending 4 - 8 weeks at just Zone 2 and
+  feel the difference. If you can, push this out for longer
+
+
   ## Overcoming Zone 2 challenges
 
 
