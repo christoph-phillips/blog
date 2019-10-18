@@ -16,7 +16,7 @@ const HomePage = ({ data, path }) => {
   return (<Layout 
       path={path}
       title='Chris Phillips'
-      subtitle="Full Stack Developer, Athlete, Coach"
+      subtitle="Full Stack Developer, Fell Runner, Cyclist"
     >
     <SEO title="Home" />
     {identities.map((identity, i) => <Identity {...identity} i={i} />)}
