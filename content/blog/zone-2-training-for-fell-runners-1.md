@@ -35,7 +35,7 @@ main: >-
 
 
   Mixed in with this Zone 3 running are often bouts of easier running and rest
-  stops to recover from the effort of running tempo. This leads to sessions with
+  stops to recover from the effort of tempo running. This leads to sessions with
   no clear focus on specific body systems to improve.
 
 
@@ -62,9 +62,9 @@ main: >-
 
 
   In absolute terms it lies between 70% and 80% of your max heart rate. You can
-  calculate your personalised heart rate zones with the [running calculator
-  ](/calculator)I made to accompany these articles here. For me, with a max
-  heart rate of 192, it lies between 134 and 153 bpm.
+  calculate your personalised heart rate zones with the [running
+  calculator](/calculator) I made to accompany these articles here. For me, with
+  a max heart rate of 192, it lies between 134 and 153 bpm.
 
 
   ## The Benefits
@@ -202,9 +202,9 @@ main: >-
 
 
   1. **You will have to walk on the hills**. This has the mental effect of
-  making you not feel quite weak. We are playing the long game here, not
-  satisfying our ego. Try and keep in mind that it will pay off in the weeks and
-  months to come.
+  making you feel quite weak. We are playing the long game here, not satisfying
+  our ego. Try and keep in mind that it will pay off in the weeks and months to
+  come.
 
 
   ![Walking uphill can be fun
@@ -290,12 +290,13 @@ main: >-
 
 
   After 2 months I saw my pace dropping. 8:30 minute miles. Then 7:30 minute
-  miles. I felt so strong and I was only going easy. Zone 2 began to feel hard.
+  miles some months later. I felt so strong and I was only going easy. Zone 2
+  began to feel hard.
 
 
   My pacing had changed, and running quicker on the descents to keep in the
   right zone had made me much faster in races. I started passing people on
-  descents (a rare event previously :) )
+  descents (a rare event before )
 
 
   My heart rate was much lower in races. Not peaking in the 186bpm range it used
@@ -307,7 +308,7 @@ main: >-
   Where am I at now? I can run 7:00 minute miles in Zone 2 on the flats. On
   hilly runs, I feel strong on all aspects of terrain. My core is stronger. I am
   confident in my own ability to hold different paces. I don't try and prove
-  anything to anyone. I train at my own paces and dont mind running slowly. I
+  anything to anyone. I train at my own paces and don't mind running slowly. I
   like running with runners of different abilities. I run my own races and don't
   panic. 
 
