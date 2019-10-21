@@ -26,7 +26,7 @@ function SEO({ description, lang, meta, title, image }) {
   )
 
   const metaDescription = description || site.siteMetadata.description
-  const metaImage = (image && image.childImageSharp.fixed.src && 'https://runbikecode.com/' + image.childImageSharp.fixed.src) || site.siteMetadata.image
+  const metaImage = (image && image.childImageSharp.fixed.src && 'https://runbikecode.com' + image.childImageSharp.fixed.src) || site.siteMetadata.image
   return (
     <Helmet
       htmlAttributes={{
