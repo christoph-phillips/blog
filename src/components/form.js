@@ -52,8 +52,8 @@ const Form = ({fields, info, name}) => {
 	return (
 		<FormContainer>
 			<Info>{info}</Info>
-			<FormElement name={name} netlify method="POST" action="/success" data-netlify="true">
-				<input type="hidden" name={name} value={name} />
+			<FormElement name={name} method="POST" action="/success" data-netlify="true">
+				<input type="hidden" name={'form-name'} value={name} />
 				{ fields.map(field => 
 					 	(<Fragment>
 						<Input type={field.type} name={field.name} placeholder={field.name} />
