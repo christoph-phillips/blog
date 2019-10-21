@@ -15,6 +15,13 @@ module.exports = {
                     name: 'images',
                 },
         },
+        {
+          resolve: `gatsby-plugin-google-analytics`,
+          options: {
+            // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+            trackingId: "UA-68689146-3",
+          },
+        },
               {
         resolve: `gatsby-source-filesystem`,
         options: {
