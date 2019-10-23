@@ -100,6 +100,9 @@ const Jumbotron = ({title, date, intro, image, cta }) => (<Header>
         fluid={image.childImageSharp.fluid}
         objectFit="cover"
         objectPosition="50% 50%"
+        style={{
+          maxHeight: '300px'
+        }}
     />
     </ImageContainer>
     </Right>

@@ -14,12 +14,11 @@ export const Container = styled.div`
 const ItemContainer = styled(Link)`
   height: 250px;
   min-height: 180px;
-  margin: 10px;
+  margin-bottom: 50px;
   cursor: pointer;
   display: flex;
   text-decoration: none;
   color: black;
-  margin: 5px;
   @media (max-width: 768px) {
     flex-direction: column;
     height: 300px;
@@ -29,7 +28,10 @@ const ItemContainer = styled(Link)`
 const ImageContainer = styled.div`
   margin: 0px auto;
 `
-const ItemImage = styled(Img)``
+const ItemImage = styled(Img)`
+  width: 250px;
+  height: 250px;
+`
 
 const ItemInfo = styled.div`
   width: calc(100% - 400px);
@@ -60,7 +62,7 @@ const BlogItem = ({ image, title, intro, slug, created }) => {
   <ItemContainer to={slug}>
     <ImageContainer>
     <ItemImage 
-      fixed={image.childImageSharp.fixed}
+      fluid={image.childImageSharp.fluid}
       objectFit="cover"
       objectPosition="50% 50%"
     />
