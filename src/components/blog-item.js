@@ -13,7 +13,6 @@ export const Container = styled.div`
 
 const ItemContainer = styled(Link)`
   height: 250px;
-  min-height: 180px;
   margin-bottom: 50px;
   cursor: pointer;
   display: flex;
@@ -21,7 +20,7 @@ const ItemContainer = styled(Link)`
   color: black;
   @media (max-width: 768px) {
     flex-direction: column;
-    height: 300px;
+    height: 450px;
   }
 `
 
