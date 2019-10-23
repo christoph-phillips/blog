@@ -3,7 +3,7 @@ title: Cycling and Running Performance
 type:
   - training
 created: 2019-10-23T17:55:15.440Z
-image: /assets/annapurna2.jpg
+image: /assets/whatsapp-image-2019-07-06-at-12.53.57.jpeg
 intro: >-
   Can cycling support your running? Will it make you faster, slower, stronger,
   weaker? 
