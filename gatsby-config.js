@@ -4,6 +4,7 @@ module.exports = {
     description:
       "The personal blog of Chris Phillips. Developer, Athlete, Writer",
     url: "https://runbikecode.com", // No trailing slash allowed!
+    siteUrl: "https://runbikecode.com",
     image: "/images/perfomer.jpg", // Path to your image you placed in the 'static' folder
     author: "Chris Phillips"
   },
@@ -59,6 +60,7 @@ module.exports = {
     `gatsby-plugin-netlify-cms`,
     'gatsby-transformer-remark',
     `gatsby-plugin-styled-components`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -89,7 +91,7 @@ module.exports = {
                 ],
             },
         },
-
+       
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
