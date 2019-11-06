@@ -8,7 +8,6 @@ const Container = styled.div`
   height: 0px;
   border-top: 0;
 `
-const Title = styled.h1``
 const Description = styled.p``
 const Input = styled.input`
 	width: 50px;
