@@ -8,14 +8,17 @@ intro: >-
   Our mind interprets our world. Consciousness comes first. What does this mean
   for athletes?
 main: >-
-  Is it all in your head? I think that a huge amount of running performance is a
-  mental game, or rather, it is about the interface between mind and body.
+  Is it all in your head? 
+
+
+  I think that a huge amount of running performance is a mental game, or rather,
+  it is about the interface between mind and body.
 
 
   Everything we experience comes first through our mind. It sounds simple but
   its easy to forget. Thoughts limit us. In the short term they tell us we can't
   do that extra repeat. In the long term our mind struggles to complete a
-  strategy of general improvements, focusing on short term satisfaction.
+  strategy of general improvements, focusing on short term satisfaction instead.
 
 
   One of the limits of performance is pacing. Pacing is in the head. It is a
@@ -37,9 +40,9 @@ main: >-
 
 
   You cannot separate the mind and the body. They are intimately linked. As
-  Gabor Mate says in _The Body Says No_, our mind can create illness that
-  manifests in the body. Our mind can create muscle weakness and fatigue,
-  especially when under stressful conditions.
+  Gabor Mate says in _The Body Says No_, our mind can create conditions that
+  manifest in the body. Our mind can create muscle weakness and fatigue,
+  especially when under mentally stressful conditions.
 
 
   What if we could feel stronger every day purely through training our mind
@@ -85,7 +88,7 @@ main: >-
   thinking differently. 
 
 
-  Get caught up in competition in races and go off too fast. Train your mind to
+  Get caught up in competition in races and go off too fast? Train your mind to
   be more in tune with your own performance, rather than those around you.
 
 
