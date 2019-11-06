@@ -1,5 +1,5 @@
 ---
-title: 'Of All Phenomena, The Mind The Forerunner'
+title: '"Of All Phenomena, The Mind The Forerunner"'
 type:
   - quotes
 created: 2019-11-06T02:48:00.723Z
