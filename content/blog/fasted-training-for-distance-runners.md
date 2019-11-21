@@ -223,8 +223,9 @@ main: >-
   Metabolic changes occur despite the type of training you are doing. 
 
 
-  The important thing is fasted, low intensity, exercise. Time on the bike, in
-  the pool, or hiking big hills can all contribute to this.
+  The important thing is fasted, low intensity, exercise.  [Cross training on
+  the bike](https://www.runbikecode.com/blog/cycling-and-running-performance/),
+  in the pool, or hiking big hills can all contribute to this.
 
 
   It's always best to be specific for your sport to stress the correct muscle
