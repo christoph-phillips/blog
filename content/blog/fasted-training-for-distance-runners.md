@@ -175,7 +175,9 @@ main: >-
   at faster paces in your easier zones.
 
 
-  ![]()
+  ![An example of an easy long run with friends whilst
+  fasted](/assets/screen-shot-2019-11-21-at-08.00.26.png "An example of an easy
+  long run with friends whilst fasted")
 
 
   It's important that you start slowly and build up the amount of fasted
