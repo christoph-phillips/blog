@@ -175,6 +175,9 @@ main: >-
   at faster paces in your easier zones.
 
 
+  ![]()
+
+
   It's important that you start slowly and build up the amount of fasted
   training time you have in your weekly schedule. To begin with, try a fasted
   run 60 - 90 minutes long. Then build up to 2 hours and above. By slowly
