@@ -3,7 +3,7 @@ title: '"Don''t shrink any task because of its arduousness"'
 type:
   - quotes
 created: 2019-11-21T07:47:40.610Z
-image: /assets/20191030_133920.jpg
+image: /assets/20191030_125532.jpg
 intro: >-
   Training is hard. Accepting and embracing this is the only way to reach peak
   performance.
