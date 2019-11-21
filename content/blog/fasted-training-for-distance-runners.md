@@ -8,7 +8,13 @@ intro: >-
   Fasted training could improve your speed at all intensities. Why? How? Read
   on.
 main: >-
-  I have been advocating fasted training to friends and clients for years.
+  I have been advocating fasted training to friends for years. A good cyclist
+  friend first introduced it to me, and over time I have incorporated it into my
+  running too.
+
+
+  It's been interesting to see it gain more traction, including a section in
+  _Training For The Uphill Athlete_, coauthored by Kilian Jornet.
 
 
   It has been a key aspect of my improving my ability to hold faster paces for
@@ -16,11 +22,8 @@ main: >-
 
 
   Fasted training reduces the bodies reliance on glycogen (sugar) and improves
-  it's ability to use fat.
-
-
-  This has the simultaneous effect of giving us more horsepower AND endurance
-  capacity. 
+  it's ability to use fat. This has the simultaneous effect of giving us more
+  horsepower AND endurance capacity. 
 
 
   ## Fasted Training, Fat Burning And Metabolism
@@ -37,7 +40,7 @@ main: >-
   **Fat** **trumps** **glycogen** with two main bodily adaptations
 
 
-  **Quantity In The Body**
+  * **Quantity In The Body**
 
 
   We can hold approximately 2000 calories of available glycogen in our bodies. 
@@ -47,7 +50,7 @@ main: >-
   fat.
 
 
-  **Reduced Lactate Production**
+  * **Reduced Lactate Production**
 
 
   As we exercise at higher intensities, at and above lactate threshold, our
@@ -69,10 +72,8 @@ main: >-
 
 
   The major improvement comes from having an additional source of endless fuel
-  for running.
-
-
-  For all distances the athlete can rely on their adapted fat stores. 
+  for running. For all distances the athlete can rely on their adapted fat
+  stores. 
 
 
   This minimises potential disruption in races due to running out of fuel. You
@@ -111,11 +112,8 @@ main: >-
 
 
   That means we have to trick our body and provide an extra stimulus to enhance
-  our ability to burn fat.
-
-
-  The best way of doing this is to deplete our glycogen levels with fasted
-  training. 
+  our ability to burn fat. The best way of doing this is to deplete our glycogen
+  levels with fasted training. 
 
 
   Doing long training sessions over 2 hours at low intensity whilst fasted will
@@ -161,67 +159,42 @@ main: >-
 
 
   Interestingly enough, according to Rhonda Patrick (highly recommend her
-  podcast FoundMyFitness), caffeine does not affect our fasted environment.
-
-
-  That means a black coffee without sugar is perfectly OK to have to get your
-  body moving in the morning.
+  podcast FoundMyFitness), caffeine does not affect our fasted environment. That
+  means a black coffee without sugar is perfectly OK to have to get your body
+  moving in the morning.
 
 
   You must train at a low intensity to gain these adaptations to begin with.
-
-
   It's a process that will take time and you will need to get used to going
-  slower for longer sessions.
-
-
-  Over time your ability to run at lower intensities will improve as you adapt
-  to burn more fat for fuel.
+  slower for longer sessions. Over time your ability to run at lower intensities
+  will improve as you adapt to burn more fat for fuel.
 
 
   I highly recommend wearing a heart rate monitor to analyse this change over
-  time. 
-
-
-  You will see that for the same heart rate you will be running longer and at
-  faster paces in your easier zones.
+  time. You will see that for the same heart rate you will be running longer and
+  at faster paces in your easier zones.
 
 
   It's important that you start slowly and build up the amount of fasted
-  training time you have in your weekly schedule.
-
-
-  To begin with, try a fasted run 60 - 90 minutes long. Then build up to 2 hours
-  and above. 
-
-
-  By slowly increasing your duration, you will support your body to adapt its
-  metabolism for longer runs.
+  training time you have in your weekly schedule. To begin with, try a fasted
+  run 60 - 90 minutes long. Then build up to 2 hours and above. By slowly
+  increasing your duration, you will support your body to adapt its metabolism
+  for longer runs.
 
 
   ## What can I expect?
 
 
-  A fasted run longer than 90 minutes is going to make you feel weak if you are
-  not already fat adapted.
-
-
-  There may be times when you feel like your legs are heavy and you have no
-  energy at all.
-
-
-  You may experience the "bonk" if you do too much of it too soon. 
-
-
-  This is when your body runs out of glycogen and you are unable to think
-  clearly and struggle to put one foot in front of the other.
+  It's hard to begin with! A fasted run longer than 90 minutes is going to make
+  you feel weak if you are not already fat adapted. There may be times when you
+  feel like your legs are heavy and you have no energy at all. You may
+  experience the "bonk" if you do too much of it too soon. This is when your
+  body runs out of glycogen and you are unable to think clearly and struggle to
+  put one foot in front of the other.
 
 
   Build up slowly and you will start to feel stronger over these longer
-  durations.
-
-
-  Your body will start using more fat for fuel. 
+  durations. Your body will then start using more fat for fuel. 
 
 
   You will need to eat less on longer runs and races.
@@ -234,11 +207,9 @@ main: >-
   will feel easier.
 
 
-  Race times should improve, especially longer races over 2 hours in length. 
-
-
-  You will still be eating in these races but you will have an extra energy
-  source to rely on to boost your performance.
+  Race times should improve, especially longer races over 2 hours in length. You
+  will still be eating in these races but you will have an extra energy source
+  to rely on to boost your performance.
 
 
   ## Cross Training And Fat Burning
@@ -284,9 +255,6 @@ main: >-
   minute miles in 10 months. 
 
 
-  I don't eat when I do long easy runs up to 5 hours.
-
-
   My recovery is so much better as I'm not taking in lots of sugars and
   experiencing the highs and lows of the sugar rush.
 
@@ -297,8 +265,6 @@ main: >-
 
   Combining this approach with fasted training has turbo charged my adaptation
   and increased my aerobic capacity further than I ever could have hoped.
-
-
 
 
   ## Postscript: The Fat Burning Zone, Altered States Of Consciousness
