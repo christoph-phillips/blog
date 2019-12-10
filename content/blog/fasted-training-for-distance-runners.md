@@ -21,8 +21,8 @@ main: >-
   longer in races.
 
 
-  Fasted training reduces the bodies reliance on glycogen (sugar) and improves
-  it's ability to use fat. This has the simultaneous effect of giving us more
+  Fasted training reduces the body's reliance on glycogen (sugar) and improves
+  its ability to use fat. This has the simultaneous effect of giving us more
   horsepower AND endurance capacity. 
 
 
@@ -37,7 +37,7 @@ main: >-
   our muscles. **Glycogen** and **fat**. 
 
 
-  **Fat** **trumps** **glycogen** with two main bodily adaptations
+  **Fat** **trumps** **glycogen** with two main bodily adaptations:
 
 
   * **Quantity In The Body**
@@ -93,7 +93,7 @@ main: >-
 
   Being fat adapted can be life changing. As you are more able to burn fat in
   general life, you will not need to eat sugar foods to keep your energy levels
-  high. Its been a surprising change for me to actually eat LESS food in daily
+  high. It's been a surprising change for me to actually eat LESS food in daily
   life due to my fasted training runs. I've simply got enough fat to sustain me
   between meals, so I don't need to snack.
 
@@ -107,7 +107,7 @@ main: >-
   volume of low intensity training, your metabolism will change.
 
 
-  But it won't be as fast. Our body likes to run on sugar. Its easier to access
+  But it won't be as fast. Our body likes to run on sugar. It's easier to access
   and produce energy from.
 
 
@@ -140,7 +140,7 @@ main: >-
   horsepower and its fuel economy at the same time!"
 
 
-  This means that its not just the long slow distance ultra runner that can
+  This means that it's not just the long slow distance ultra runner that can
   benefit from fasted training. 
 
 
@@ -265,11 +265,11 @@ main: >-
   experiencing the highs and lows of the sugar rush.
 
 
-  I must say that this is not only due to fasted training. The high volume, low
-  intensity, approach has obviously had a large impact.
+  I must say that this is not only due to fasted training. The high volume low
+  intensity approach has obviously had a large impact.
 
 
-  Combining this approach with fasted training has turbo charged my adaptation
+  Combining low intensity with fasted training has turbo charged my adaptation
   and increased my aerobic capacity further than I ever could have hoped.
 
 
@@ -284,7 +284,7 @@ main: >-
   burning zone'. 
 
 
-  Its a type of flow state, where you are concentrated with absolute attention
+  It's a type of flow state, where you are concentrated with absolute attention
   on what you are doing.
 
 
@@ -292,8 +292,8 @@ main: >-
   process of training.
 
 
-  Its a very unique experience, and one which gives you more focus and attention
-  in your daily life too. 
+  It's a very unique experience, and one which gives you more focus and
+  attention in your daily life too. 
 
 
   Your body is working in a fundamentally different way using different
