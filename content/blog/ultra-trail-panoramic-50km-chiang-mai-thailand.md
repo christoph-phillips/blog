@@ -70,9 +70,25 @@ main: >-
   having a good craic. 
 
 
-  ![Sukrit Kaewyoun Looking
-  Strong!](/assets/78453835_2880308102020547_5818926356678836224_n.jpg "Sukrit
-  Kaewyoun Looking Strong!")
+  The night before a question was asked by a runner who had followed the route
+  on his bicycle. 
+
+
+  > "I followed the route yesterday and it led to a river, which had no way
+  across. Is there a river crossing?"
+
+
+  The organiser very comfortably replied.
+
+
+  > "Mai Mee" - "There isn't"
+
+
+  I couldn't believe it when we got to a river and had to cross up above our
+  knees! I thought it was brilliant how he had kept a straight face. I'm not
+  sure if he wanted it to be a surprise or that he was genuinely not sure :) .
+  Anyhow it made for an entertaining few minutes. The picture on this post was
+  taken at that river crossing.
 
 
   I could tell Suki wanted to win the race because he was pushing the pace a lot
@@ -82,10 +98,88 @@ main: >-
   correctly.
 
 
+  ![Sukrit Kaewyoun Looking
+  Strong!](/assets/78453835_2880308102020547_5818926356678836224_n.jpg "Sukrit
+  Kaewyoun Looking Strong!")
+
+
   We hit the start of the main climb. To be honest, I was quite cold because my
   heart rate was in the high 130s, which is recovery pace for me. I decided to
   just push up to my all day pace on the climb and see what happened. That's
   when I began to move away and realised that I should probably continue the
   effort for the rest of the race.
+
+
+  I continued up the climb at a nice comfortable pace, a lot slower than the
+  tempo efforts I had been doing in Chiang Mai in the buildup. Then some rolling
+  terrain and the middle checkpoint at 20 miles. I felt really comfortable so
+  ramped up the effort just a little and didn't walk any of the climbs from that
+  point.
+
+
+  I knew that at 25 miles I would hit the top of the main climb and so if I had
+  some energy left I could smash it down that. The muscular endurance I had been
+  building previously on big descents came into it's own and I let my legs fly.
+
+
+  The last 4.5 miles were on road. Wowser, that was tough. Honestly I was
+  pushing my muscles as hard as they could go, and I was only running 7:30
+  minute miles. My body just didn't want to go any further. The last mile and my
+  core started to cramp, which happened earlier in the year in the Manchester
+  marathon. But it was a mile through the tourist are of Pai so I just kept
+  going.
+
+
+  ![7:30 Minute Miles Had Never Felt So
+  Hard](/assets/5dedaff7f9619e9aa8160e67.jpg "7:30 Minute Miles Had Never Felt
+  So Hard")
+
+
+  Coming into the finish was funny. The race organised on the loudspeaker said: 
+
+
+  > "Christopher Phillips, From The United States Of America, Champion of 50K"
+
+
+  I had a quizzical look on my face as I came through, and I'm sure that the
+  race finish photos will look really funny!
+
+
+  ## Post Race
+
+
+  After the race I made sure to eat lots of fruit and the white rice and
+  omelette they were giving out. I had seen this from friends before in
+  Thailand. The fruit is just great for replacing water lost and getting that
+  anti-inflammatory action. The rice just replenishes those glycogen stores.
+  Omelette handled the protein and after I had some really nice veggie food
+  which Pai has in buckets.
+
+
+  We then waited for a long time to receive the race trophy from the organisers.
+  First it was 12, then 12:30 and finally around 1pm we were called to the
+  stage.
+
+
+
+
+  ![Receiving The Trophy With Suki in 2nd Place](/assets/img-20191208-wa0003.jpg
+  "Receiving The Trophy With Suki in 2nd Place")
+
+
+
+
+  It was great to see that Suki had held on for 2nd place, comfortably ahead of
+  everyone else. He's an upcoming talent in Thailand and I look forward to
+  seeing more of his results and achievements in the future.
+
+
+  ## Reflections
+
+
+  Here are some thoughts after the race to consider moving forward:
+
+
+  1. Nutrition - For me solid food will always be best. Sweet potatoes and mango
 ---
 
