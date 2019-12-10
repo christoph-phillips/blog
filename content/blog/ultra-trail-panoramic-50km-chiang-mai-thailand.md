@@ -16,7 +16,7 @@ main: >-
 
 
   I felt prepared mentally and physically to perform and it was quite a relief
-  to be able to get to the start line and just execute my plan. :)
+  to be able to get to the start line and just execute my plan. :smile:
 
 
   ## The Route
@@ -54,7 +54,7 @@ main: >-
   9 degrees. Thai people, and also acclimatised English fell runners, can't deal
   with the cold very well. I had been training in 30 degree heat for the 6 weeks
   before and so I honestly was freezing cold. I guess it's good training for
-  heading back to the UK in a few weeks. :)
+  heading back to the UK in a few weeks. :smile:
 
 
   When we set off I had a plan of keeping my heart rate in my Zone 2 range, and
