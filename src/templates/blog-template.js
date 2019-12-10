@@ -16,7 +16,6 @@ const Content = styled.div`
   margin-top: -50px;
 `
 
-
 const converter = new showdown.Converter({tables: true, emoji: true, extensions: [extension]})
 export default (props) => {
   console.log({ props })

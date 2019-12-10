@@ -37,7 +37,7 @@ export const GlobalStyle = createGlobalStyle`
   }
   .post img {
     max-width: 100%;
-    width: 400px;
+    width: 600px;
     margin: 0px auto;
   }
   .post h2 {
