@@ -16,7 +16,7 @@ main: >-
 
 
   I felt prepared mentally and physically to perform and it was quite a relief
-  to be able to get to the start line and just execute my plan :) .
+  to be able to get to the start line and just execute my plan. :)
 
 
   ## The Route
@@ -54,7 +54,7 @@ main: >-
   9 degrees. Thai people, and also acclimatised English fell runners, can't deal
   with the cold very well. I had been training in 30 degree heat for the 6 weeks
   before and so I honestly was freezing cold. I guess it's good training for
-  heading back to the UK in a few weeks :) .
+  heading back to the UK in a few weeks. :)
 
 
   When we set off I had a plan of keeping my heart rate in my Zone 2 range, and
@@ -86,7 +86,7 @@ main: >-
 
   I couldn't believe it when we got to a river and had to cross up above our
   knees! I thought it was brilliant how he had kept a straight face. I'm not
-  sure if he wanted it to be a surprise or that he was genuinely not sure :) .
+  sure if he wanted it to be a surprise or that he was genuinely not sure.
   Anyhow it made for an entertaining few minutes. The picture on this post was
   taken at that river crossing.
 
@@ -119,7 +119,7 @@ main: >-
 
   I knew that at 25 miles I would hit the top of the main climb and so if I had
   some energy left I could smash it down that. The muscular endurance I had been
-  building previously on big descents came into it's own and I let my legs fly.
+  building previously on big descents came into its own and I let my legs fly.
 
 
   The last 4.5 miles were on road. Wowser, that was tough. Honestly I was
@@ -135,14 +135,16 @@ main: >-
   So Hard")
 
 
-  Coming into the finish was funny. The race organised on the loudspeaker said: 
+  Coming into the finish was funny. The race organiser on the loudspeaker said: 
 
 
   > "Christopher Phillips, From The United States Of America, Champion of 50K"
 
 
-  I had a quizzical look on my face as I came through, and I'm sure that the
-  race finish photos will look really funny!
+  I had a quizzical look on my face as I came through. I've been called
+  Australian, Germany, Dutch, but never American before. I'm not sure the flags
+  look similar but there you go. I'm sure that the race finish photos will look
+  really funny! 
 
 
   ## Post Race
@@ -177,7 +179,7 @@ main: >-
 
 
   1. Nutrition - For me solid food will always be best. Sweet potatoes and dried
-  mango were brilliant. I had two gels in the past 8 miles just to keep the
+  mango were brilliant. I had two gels in the last 8 miles just to keep the
   energy levels high. I took too much food!
 
   2. Pace - This was a really conservative pace for me. I felt very slow and
