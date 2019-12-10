@@ -265,11 +265,11 @@ main: >-
   experiencing the highs and lows of the sugar rush.
 
 
-  I must say that this is not only due to fasted training. The high volume, low
-  intensity, approach has obviously had a large impact.
+  I must say that this is not only due to fasted training. The high volume low
+  intensity approach has obviously had a large impact.
 
 
-  Combining this approach with fasted training has turbo charged my adaptation
+  Combining low intensity with fasted training has turbo charged my adaptation
   and increased my aerobic capacity further than I ever could have hoped.
 
 
@@ -284,7 +284,7 @@ main: >-
   burning zone'. 
 
 
-  Its a type of flow state, where you are concentrated with absolute attention
+  It's a type of flow state, where you are concentrated with absolute attention
   on what you are doing.
 
 
@@ -292,8 +292,8 @@ main: >-
   process of training.
 
 
-  Its a very unique experience, and one which gives you more focus and attention
-  in your daily life too. 
+  It's a very unique experience, and one which gives you more focus and
+  attention in your daily life too. 
 
 
   Your body is working in a fundamentally different way using different
