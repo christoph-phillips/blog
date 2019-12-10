@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import BlogItem, { Container } from "../components/blog-item"
 import IntroBox from "../components/intro-box"
-console.log({ IntroBox })
+
 const formatBlogData = (data) => {
   return data.map(post => {
     return {
@@ -21,6 +21,8 @@ const Blog = (props) => {
   let blogData = formatBlogData(props.data.posts.edges)
   if (type) {
     blogData = blogData.filter(item => item.type.includes(type))
+  } else {
+    blogData = blogData.filter(item => !item.type.includes('quotes'))
   }
   console.log({ meta})
   const Box = meta && meta.intro && <IntroBox content={meta.intro} />
