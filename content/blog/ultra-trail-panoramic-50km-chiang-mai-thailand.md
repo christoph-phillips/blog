@@ -161,12 +161,8 @@ main: >-
   stage.
 
 
-
-
   ![Receiving The Trophy With Suki in 2nd Place](/assets/img-20191208-wa0003.jpg
   "Receiving The Trophy With Suki in 2nd Place")
-
-
 
 
   It was great to see that Suki had held on for 2nd place, comfortably ahead of
@@ -180,6 +176,33 @@ main: >-
   Here are some thoughts after the race to consider moving forward:
 
 
-  1. Nutrition - For me solid food will always be best. Sweet potatoes and mango
+  1. Nutrition - For me solid food will always be best. Sweet potatoes and dried
+  mango were brilliant. I had two gels in the past 8 miles just to keep the
+  energy levels high. I took too much food!
+
+  2. Pace - This was a really conservative pace for me. I felt very slow and
+  sluggish and know I could run much faster. Next time I run 50km I will push
+  myself much more. I know I should have ran all the hills and pushed the flats
+  a lot more.
+
+  3. Race Kit - Salomon Race Vest was just brilliant. So lightweight and easy to
+  fit everything in. The only issue I found was some soreness on my ribs the day
+  after, but I feel that might be pretty normal.
+
+  4. Footwear - I always run in New Balance 1400s. They are a racing shoe, but I
+  just feel so comfortable in them over long distances and feel like they have
+  strengthened my feet and calves to withstand the pressure. I'm going to
+  consider getting some more durable trail shoes in the future just to reduce
+  the cost!
+
+
+  ## Final
+
+
+  I'm looking forward to building on this. I want to improve my speed at these
+  distances and be mentally and physically prepared for the challenges of 2020. 
+
+
+  Stay tuned.
 ---
 
