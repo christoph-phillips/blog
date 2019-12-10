@@ -22,6 +22,7 @@ const Blog = (props) => {
   if (type) {
     blogData = blogData.filter(item => item.type.includes(type))
   }
+  console.log({ meta})
   const Box = meta && meta.intro && <IntroBox content={meta.intro} />
   return (<Layout
       title={meta.title}

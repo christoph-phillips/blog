@@ -70,6 +70,11 @@ exports.createPages = async ({ graphql, actions }) => {
       subtitle: "Interesting learnings from the field of sports science and mental resilience",
       intro: null
     },
+    "race-report": {
+      title: "Race Reports",
+      subtitle: "Details on my races, the highs, the lows, the future",
+      intro: null
+    },
   }
   // main blog page for all posts
   createPage({

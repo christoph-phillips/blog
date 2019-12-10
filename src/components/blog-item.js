@@ -21,7 +21,7 @@ const ItemContainer = styled(Link)`
   color: black;
   @media (max-width: 768px) {
     flex-direction: column;
-    height: 450px;
+    height: 475px;
   }
 `
 
