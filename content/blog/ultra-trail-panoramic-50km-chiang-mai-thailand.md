@@ -70,32 +70,34 @@ main: >-
   having a good craic. 
 
 
-  The night before a question was asked by a runner who had followed the route
-  on his bicycle. 
+  The night before at the debrief a question was asked by a runner who had
+  followed the route on his bicycle. 
 
 
   > "I followed the route yesterday and it led to a river, which had no way
-  across. Is there a river crossing?"
+  across. Is there a river crossing or bridge?"
 
 
   The organiser very comfortably replied.
 
 
-  > "Mai Mee" - "There isn't"
+  > "Mai Mee" - "There isn't a river"
 
 
   I couldn't believe it when we got to a river and had to cross up above our
   knees! I thought it was brilliant how he had kept a straight face. I'm not
   sure if he wanted it to be a surprise or that he was genuinely not sure.
-  Anyhow it made for an entertaining few minutes. The picture on this post was
-  taken at that river crossing.
+  Anyhow it made for an entertaining few minutes. 
 
 
-  I could tell Suki wanted to win the race because he was pushing the pace a lot
-  on the climbs, whereas I was just sticking to my Zone 2 which I can keep by
-  feel now. So I would drop behind on the rolling terrain and just catch up
-  after. In fact it was a real confidence boost for averaging my effort out
-  correctly.
+  ![Crossing A River At The 12km Mark](/assets/20191208_050001.jpg "Crossing A
+  River At The 12km Mark")
+
+
+  Suki was going for it in the race because he was pushing the pace a lot on the
+  climbs, whereas I was just sticking to my Zone 2 which I can keep by feel now.
+  So I would drop behind on the rolling terrain and catch up after. In fact it
+  was a real confidence boost for averaging my effort out correctly.
 
 
   ![Sukrit Kaewyoun Looking
@@ -104,10 +106,10 @@ main: >-
 
 
   We hit the start of the main climb. To be honest, I was quite cold because my
-  heart rate was in the high 130s, which is recovery pace for me. I decided to
-  just push up to my all day pace on the climb and see what happened. That's
-  when I began to move away and realised that I should probably continue the
-  effort for the rest of the race.
+  heart rate was in the 130s, which is recovery pace for me. I decided to just
+  push up the pace a little on the climb and see what happened. That's when I
+  began to move away and realised that I should probably continue the effort for
+  the rest of the race.
 
 
   I continued up the climb at a nice comfortable pace, a lot slower than the
@@ -142,20 +144,19 @@ main: >-
 
 
   I had a quizzical look on my face as I came through. I've been called
-  Australian, Germany, Dutch, but never American before. I'm not sure the flags
+  Australian, German, Dutch, but never American before. I'm not sure the flags
   look similar but there you go. I'm sure that the race finish photos will look
-  really funny! 
+  really funny as I look confused and bewildered.
 
 
   ## Post Race
 
 
-  After the race I made sure to eat lots of fruit and the white rice and
-  omelette they were giving out. I had seen this from friends before in
-  Thailand. The fruit is just great for replacing water lost and getting that
+  After the race I made sure to eat lots of fruit and white rice which the
+  organisers were handing out. I had seen this from friends before in Thailand.
+  The fruit is just great for replacing water lost and getting that
   anti-inflammatory action. The rice just replenishes those glycogen stores.
-  Omelette handled the protein and after I had some really nice veggie food
-  which Pai has in buckets.
+  After I had some really nice veggie food which Pai has in buckets.
 
 
   We then waited for a long time to receive the race trophy from the organisers.
@@ -178,27 +179,30 @@ main: >-
   Here are some thoughts after the race to consider moving forward:
 
 
-  1. Nutrition - For me solid food will always be best. Sweet potatoes and dried
-  mango were brilliant. I had two gels in the last 8 miles just to keep the
-  energy levels high. I took too much food!
+  1. **Nutrition** - For me solid food will always be best. Sweet potatoes and
+  dried mango were brilliant. I had two gels in the last 8 miles just to keep
+  the energy levels high. I took too much food!
 
-  2. Pace - This was a really conservative pace for me. I felt very slow and
+  2. **Pace** - This was a really conservative pace for me. I felt very slow and
   sluggish and know I could run much faster. Next time I run 50km I will push
   myself much more. I know I should have ran all the hills and pushed the flats
   a lot more.
 
-  3. Race Kit - Salomon Race Vest was just brilliant. So lightweight and easy to
-  fit everything in. The only issue I found was some soreness on my ribs the day
-  after, but I feel that might be pretty normal.
+  3. **Race Kit** - Salomon Race Vest was just brilliant. So lightweight and
+  easy to fit everything in. The only issue I found was some soreness on my ribs
+  the day after, but I feel that might be pretty normal.
 
-  4. Footwear - I always run in New Balance 1400s. They are a racing shoe, but I
-  just feel so comfortable in them over long distances and feel like they have
-  strengthened my feet and calves to withstand the pressure. I'm going to
+  4. **Footwear** - I always run in New Balance 1400s. They are a racing shoe,
+  but I just feel so comfortable in them over long distances and feel like they
+  have strengthened my feet and calves to withstand the pressure. I'm going to
   consider getting some more durable trail shoes in the future just to reduce
-  the cost!
+  the cost. Everyone is raving about Altra Lone Peak 4 so I might give them a
+  bash.
 
-
-  ## Final
+  5. **Core Strength** - At the moment I don't do any core strength work. From
+  this race I can clearly see that I am a lot stronger than earlier in the year
+  but I still had cramps in my core muscle groups at the end. I am going to
+  consider incorporating more strength sessions into my weekly schedule.
 
 
   I'm looking forward to building on this. I want to improve my speed at these
