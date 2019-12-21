@@ -48,13 +48,21 @@ export const GlobalStyle = createGlobalStyle`
 
 export const animations = {
     fadeIn: keyframes`
-    from {
-      opacity: 0;
-      transform: scale(1.1);
-    }
-    to {
-      opacity: 1;
-      transform: scale(1);
-    }
-  `
+      from {
+        opacity: 0;
+        transform: scale(1.1);
+      }
+      to {
+        opacity: 1;
+        transform: scale(1);
+      }
+    `,
+    float: keyframes`
+      from {
+        transform: scale(1.1);
+      }
+      to {
+        transform: scale(1);
+      }
+    `
 }

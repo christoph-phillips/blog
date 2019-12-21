@@ -9,17 +9,33 @@ import SEO from "../components/seo"
 import Jumbotron from "../components/jumbotron"
 import { Newsletter } from "../components/form"
 import IntroBox from "../components/intro-box"
+import BlogItem from "../components/blog-item"
+import PostFooter from "../components/post-footer"
 
 import { extension } from '../extensions/showdown-figure'
-
+import { findNextPosts } from "../utils"
 const Content = styled.div`
   margin-top: -50px;
+`
+const PostsContainer = styled.div`
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  justify-content: space-evenly;
+  @media (max-width: 420px) {
+    flex-direction: column;
+    height: 475px;
+    margin-top: 100px;
+  }
 `
 
 const converter = new showdown.Converter({tables: true, emoji: true, extensions: [extension]})
 export default (props) => {
   console.log({ props })
   const meta = props.pageContext.meta
+
+  const { prevPost, nextPost } = findNextPosts(props.data.posts.edges, props.data.post.id)
+  console.log({ prevPost, nextPost })
   const { title, image, intro, main, created } = props.data.post.frontmatter
   const Box = meta && meta.intro && <IntroBox content={meta.intro} marginBottom={100} />
   return (
@@ -33,6 +49,12 @@ export default (props) => {
         />
         {Box}
         <Content className="post" dangerouslySetInnerHTML={{__html: converter.makeHtml(main) }}/>
+        <PostFooter />
+        <PostsContainer>  
+          <BlogItem {...prevPost} small left />
+          <BlogItem {...nextPost} small right />
+        </PostsContainer>
+        
         <Newsletter />
       </Layout>
   )
@@ -41,6 +63,7 @@ export const query = graphql`
   query($slug: String!) {
     post: markdownRemark(fields: { slug: { eq: $slug } }) {
       html
+      id
       frontmatter {
         title
         type
@@ -61,5 +84,33 @@ export const query = graphql`
         main
       }
     }
+    posts: allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___created]}, filter: {fileAbsolutePath: {regex: "/content/blog/"}}) {
+      totalCount
+      edges {
+        node {
+          id
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            type
+            created(formatString: "DD MMMM YYYY")
+            image {
+                id
+                relativePath
+                childImageSharp  {
+                    fluid (quality: 100) {
+                      ...GatsbyImageSharpFluid
+                    }
+                  }
+              }
+            intro
+            main
+          }
+          excerpt
+        }
+      }
+  }
   }
  `

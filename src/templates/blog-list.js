@@ -4,15 +4,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import BlogItem, { Container } from "../components/blog-item"
 import IntroBox from "../components/intro-box"
-
-const formatBlogData = (data) => {
-  return data.map(post => {
-    return {
-      ...post.node.frontmatter,
-      slug: post.node.fields.slug
-    }
-  })
-}
+import { formatBlogData } from "../utils"
 
 const Blog = (props) => {
   console.log({ props })
@@ -24,7 +16,6 @@ const Blog = (props) => {
   } else {
     blogData = blogData.filter(item => !item.type.includes('quotes'))
   }
-  console.log({ meta})
   const Box = meta && meta.intro && <IntroBox content={meta.intro} />
   return (<Layout
       title={meta.title}
