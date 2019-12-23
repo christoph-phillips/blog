@@ -3,7 +3,7 @@ title: Exercise and Mental Health
 type:
   - mental-health
 created: 2019-12-21T09:04:10.897Z
-image: /assets/12108787_10100767080692970_8362017857783877656_n.jpg
+image: /assets/20190804_134704.jpg
 intro: >-
   Aerobic exercise can mitigate symptoms, facilitate recovery from, and prevent
   the relapse of mental health conditions.
