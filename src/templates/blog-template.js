@@ -1,6 +1,8 @@
 import React from "react"
 import { graphql } from "gatsby"
+
 import showdown from 'showdown'
+
 
 import styled from 'styled-components'
 
@@ -11,6 +13,8 @@ import { Newsletter } from "../components/form"
 import { theme } from '../components/theme'
 
 import { extension } from '../extensions/showdown-figure'
+
+require('showdown-youtube');
 
 const Header = styled.div`
   position: absolute;
@@ -65,7 +69,7 @@ const Content = styled.div`
   margin-top: -50px;
 `
 
-const converter = new showdown.Converter({tables: true, emoji: true, extensions: [extension]})
+const converter = new showdown.Converter({tables: true, emoji: true, extensions: [extension, 'youtube']})
 export default ({ data }) => {
 
   const { title, image, intro, main, created } = data.post.frontmatter
