@@ -54,13 +54,12 @@ export default (props) => {
           image={image}
         />
         {Box}
-        <Content className="post" dangerouslySetInnerHTML={{__html: converter.makeHtml(main) }}/>
-        { /* <PostFooter />
+        <Content className="post" dangerouslySetInnerHTML={{__html: converter.makeHtml(main) }} />
+        { /* <PostFooter /> */ }
         <PostsContainer>  
           <BlogItem {...prevPost} small left />
           <BlogItem {...nextPost} small right />
         </PostsContainer>
-         */ }
         <Newsletter />
       </Layout>
   )
