@@ -192,7 +192,7 @@ main: >-
     stressors on the autonomic nervous system can support the conscious control of
     body temperature, breathing rate, and heart rate.
 
-    !\[youtube video](http://www.youtube.com/watch?v=l5-Pe9nA6mQ =800x600)
+  ![youtube video](http://www.youtube.com/watch?v=l5-Pe9nA6mQ =800x600)
 
     When we exercise, we expose our body to stress on the autonomic nervous system
     like above. How much higher is your heart rate at races due to adrenaline and
