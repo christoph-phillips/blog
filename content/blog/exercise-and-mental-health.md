@@ -7,7 +7,7 @@ image: /assets/20190804_134704.jpg
 intro: >-
   Aerobic exercise can mitigate symptoms, facilitate recovery from, and prevent
   the relapse of mental health conditions.
-main: |-
+main: >-
   We have more mental health dialogue than ever in modern society. It’s
     increasingly talked about openly amongst friends, especially with at risk
     groups such as young men. 
@@ -66,10 +66,7 @@ main: |-
     Aerobic exercise can create drastic changes in people’s mood, recovery and
     resiliency to mental health conditions. 
 
-
-
   ## Exercise and Mental Health
-
 
 
   ## Stress and Inflammation: Removing Toxins and Protecting the Brain
@@ -91,15 +88,14 @@ main: |-
     creates an enzyme that converts tryptophan to **kynurenic acid**. This is
     actually neuroprotective and supports the brain's normal functioning. 
 
+  ![Excellent diagram from  foundmyfitness.com illustrating how exercise changes
+  tryptophan metabolism](/assets/kynurenine-metabolism-exercise.png "Excellent
+  diagram from  foundmyfitness.com illustrating how exercise changes tryptophan
+  metabolism")
+
     Running changes the way our body metabolises tryptophan. It prevents the
     production of toxins in the brain, and swaps it over for a substance which is
     protective.
-
-    ![Excellent diagram from foundmyfitness.com illustrating how exercise changes
-    tryptophan metabolism](/assets/image.png "Excellent diagram from
-    foundmyfitness.com illustrating how exercise changes tryptophan metabolism")
-
-  ## 
 
   ## Brain Health: Creating New Connections and Remodelling the Brain
 
@@ -129,7 +125,7 @@ main: |-
     By creating substances like BDNF through exercise we can support psychological
     recovery and resilience.
 
-  ## Euphoria: Happy Molecules :smiles:
+  ## Euphoria: Happy Molecules :smile:
 
     Oh the runners' high…….. That feeling of balance and total comfort in the
     world when you come back from a long workout. 
@@ -175,11 +171,11 @@ main: |-
     sauna was used in the study. I’d be very interested to see a study of aerobic
     exercise, long term body temperature changes and mental health. 
 
-    ![Raising body temperature repeatedly leads to a lowering of daily body
-    temperature and may help with
-    depression](/assets/jonathan-forage-kb9kzgmxgdu-unsplash.jpg "Raising body
-    temperature repeatedly leads to a lowering of daily body temperature and may
-    help with depression")
+  ![Raising body  temperature repeatedly leads to a lowering of daily body
+  temperature and may  help with
+  depression](/assets/jonathan-forage-kb9kzgmxgdu-unsplash.jpg "Raising body 
+  temperature repeatedly leads to a lowering of daily body temperature and may 
+  help with depression")
 
     **Gaining Control of Body Temperature**
 
@@ -312,9 +308,10 @@ main: |-
     light exposure. This also has the effect of keeping the circadian rhythm under
     control.
 
-    ![Enjoying the natural landscape through exercise, aka
-    ecotherapy](/assets/img-20191015-wa0064.jpg "Enjoying the natural landscape
-    through exercise, aka ecotherapy")
+  ![Enjoying the natural landscape  through exercise, aka
+  ecotherapy](/assets/img-20191015-wa0064.jpg "Enjoying the natural landscape 
+  through exercise, aka ecotherapy")
+
 
   ## Joining The Community: Collaboration and Respect
 
@@ -337,9 +334,10 @@ main: |-
     Counteracting social isolation, feeling like you belong, and gaining respect
     from others are all key parts of maintaining positive mental health.
 
-    ![Exercising with a club counteracts social isolation
-    ](/assets/68246875_10157833366156282_171028479649775616_n.jpg "Exercising with
-    a club counteracts social isolation ")
+  ![Exercising with  a club counteracts social isolation
+  ](/assets/68246875_10157833366156282_171028479649775616_n.jpg "Exercising
+  with  a club counteracts social isolation ")
+
 
   ## Being Heard: Talking With Movement
 
@@ -401,9 +399,10 @@ main: |-
     more. This will make you stronger and reinforce any mental health strategies
     you have.
 
-    ![Getting stronger while training leads to more confidence in all areas of
-    life](/assets/athlete.jpg "Getting stronger while training leads to more
-    confidence in all areas of life")
+  ![Getting stronger while training leads to more  confidence in all areas of
+  life](/assets/athlete.jpg "Getting stronger while training leads to more 
+  confidence in all areas of life")
+
 
   ## Conclusion
 
