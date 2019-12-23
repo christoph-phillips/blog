@@ -55,12 +55,12 @@ export default (props) => {
         />
         {Box}
         <Content className="post" dangerouslySetInnerHTML={{__html: converter.makeHtml(main) }}/>
-        <PostFooter />
+        { /* <PostFooter />
         <PostsContainer>  
           <BlogItem {...prevPost} small left />
           <BlogItem {...nextPost} small right />
         </PostsContainer>
-        
+         */ }
         <Newsletter />
       </Layout>
   )
