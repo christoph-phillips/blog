@@ -125,7 +125,7 @@ main: >-
     By creating substances like BDNF through exercise we can support psychological
     recovery and resilience.
 
-  ## Euphoria: Happy Molecules :smiles:
+  ## Euphoria: Happy Molecules :smile:
 
     Oh the runners' high…….. That feeling of balance and total comfort in the
     world when you come back from a long workout. 
