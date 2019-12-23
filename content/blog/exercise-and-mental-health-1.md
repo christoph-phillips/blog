@@ -3,7 +3,7 @@ title: Exercise and Mental Health
 type:
   - mental-health
 created: 2019-12-21T09:04:10.897Z
-image: /assets/12108787_10100767080692970_8362017857783877656_n.jpg
+image: /assets/20190804_134704.jpg
 intro: >-
   Aerobic exercise can mitigate symptoms, facilitate recovery from, and prevent
   the relapse of mental health conditions.
@@ -170,7 +170,8 @@ main: >-
   endocannabonoids  They bind to receptors on cells throughout the body and in
   the brain, creating feelings of well being and reducing sensations of anxiety.
   They are produced spectacularly well between 70-80% of maximum heart rate,
-  also correlated with zone 2 training (INSERT LINK HERE). 
+  also correlated with [zone 2
+  training](https://www.runbikecode.com/blog/zone-2-training-for-fell-runners-1/).
 
 
   **Beta-endorphins** are the other happy molecule. These bind to opioid
@@ -211,7 +212,11 @@ main: >-
   exercise, long term body temperature changes and mental health. 
 
 
-  INSERT SAUNA IMAGE
+  ![Raising body temperature repeatedly leads to a lowering of daily body
+  temperature and may help with
+  depression](/assets/jonathan-forage-kb9kzgmxgdu-unsplash.jpg "Raising body
+  temperature repeatedly leads to a lowering of daily body temperature and may
+  help with depression")
 
 
   **Gaining Control of Body Temperature**
@@ -224,8 +229,8 @@ main: >-
   of anxiety. 
 
 
-  Wim Hof, aka the Ice Man, has been using cold exposure to help him control his
-  autonomic nervous system. (LINK: https://www.wimhofmethod.com/science). He is
+  Wim Hof, aka the Ice Man, has been using cold exposure to help him [control
+  his autonomic nervous system](https://www.wimhofmethod.com/science). He is
   able to control his own body temperature and immune system response through
   his practice of immersing himself in ice. So mindfulness during exposure to
   stressors on the autonomic nervous system can support the conscious control of
@@ -290,7 +295,8 @@ main: >-
 
   Fasted training is a common form of training amongst recreational and elite
   athletes alike. It involves not eating for longer workouts in order to give
-  more stimulus for improvement. I wrote an article about it here (INSERT LINK).
+  more stimulus for improvement. I wrote an article about it
+  [here](https://www.runbikecode.com/blog/fasted-training-for-distance-runners/).
   This simulates so called intermittent fasting, where you don’t eat for a
   certain part of the day. There is considerable evidence that intermittent
   fasting can help with mental health conditions. These benefits could well
@@ -484,6 +490,11 @@ main: >-
   overload. As you continue to add more stress, you will be able to cope with
   more. This will make you stronger and reinforce any mental health strategies
   you have.
+
+
+  ![Getting stronger while training leads to more confidence in all areas of
+  life](/assets/athlete.jpg "Getting stronger while training leads to more
+  confidence in all areas of life")
 
 
   ## Conclusion
