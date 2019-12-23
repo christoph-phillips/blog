@@ -5764,7 +5764,7 @@ gatsby-background-image@^0.8.9:
     global "^4.4.0"
     prop-types "^15.7.2"
 
-gatsby-cli@^2.7.34:
+gatsby-cli@2.7.34, gatsby-cli@^2.7.34:
   version "2.7.34"
   resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.7.34.tgz#f3de0047c6e77a9d678d1f55b6c27e4958241c1f"
   integrity sha512-kc7+ne7cGC74KOv7dBmLC19m2nwYBsLoPZdX3qj9YLDjWsXR/GGGGU48eyADYY1gVpJacaMqk0Lu3dNbsfZBwQ==

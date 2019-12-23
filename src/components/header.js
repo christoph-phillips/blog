@@ -1,6 +1,5 @@
 import { useStaticQuery, Link } from "gatsby"
 import Img from "gatsby-image"
-import PropTypes from "prop-types"
 import React, { Fragment } from "react"
 
 import styled from 'styled-components'

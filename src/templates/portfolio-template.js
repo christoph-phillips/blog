@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import Img from "gatsby-image"
 import showdown from 'showdown'
 import styled from 'styled-components'
 
@@ -8,10 +7,9 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Jumbotron from "../components/jumbotron"
 
-import githubLogo from "../images/github.png"
+// import githubLogo from "../images/github.png"
 import { theme } from "../components/theme"
 
-const Title = styled.h1``
 const Subtitle = styled.h3`
   text-align: center;
 `
@@ -25,11 +23,9 @@ const Section = styled.section`
   margin: 100px 0;
 `
 
-const GithubLink = styled.img`
-`
 const converter = new showdown.Converter()
 export default ({ data }) => {
-  const { title, created, image, description, features, link, github, intro } = data.post.frontmatter
+  const { title, image, description, features, link, intro } = data.post.frontmatter
   return (
       <Layout>
         <SEO title={title} />
