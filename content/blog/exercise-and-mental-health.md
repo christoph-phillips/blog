@@ -3,7 +3,7 @@ title: Exercise and Mental Health
 type:
   - mental-health
 created: 2019-12-21T09:04:10.897Z
-image: /assets/20190804_134704.jpg
+image: /assets/68246875_10157833366156282_171028479649775616_n.jpg
 intro: >-
   Aerobic exercise can mitigate symptoms, facilitate recovery from, and prevent
   the relapse of mental health conditions.
@@ -69,61 +69,7 @@ main: >-
   ## Exercise and Mental Health
 
 
-  ## Stress and Inflammation: Removing Toxins and Protecting the Brain
 
-    Those with depression have a consistent level of low grade chronic
-    inflammation. There is a clear link between the production of stress hormones,
-    common in mental health conditions, and inflammation.
-
-    When we are not stressed and suffering from chronic inflammation, we are able
-    to use a compound called **tryptophan** and convert it into **serotonin**.
-    This is essential for regulating mood and cognition.
-
-    This is not what happens with those suffering from mental health conditions
-    and inflammation. Instead, **tryptophan** converts into a substance called
-    kynurenine and **quinolinic acid**, which is actually a neurotoxin. It causes
-    the death and disease of brain cells and the normal functioning of the brain.
-
-    Aerobic exercise prevents the production of **quinolinic acid** and instead
-    creates an enzyme that converts tryptophan to **kynurenic acid**. This is
-    actually neuroprotective and supports the brain's normal functioning. 
-
-  ![Excellent diagram from  foundmyfitness.com illustrating how exercise changes
-  tryptophan metabolism](/assets/kynurenine-metabolism-exercise.png "Excellent
-  diagram from  foundmyfitness.com illustrating how exercise changes tryptophan
-  metabolism")
-
-    Running changes the way our body metabolises tryptophan. It prevents the
-    production of toxins in the brain, and swaps it over for a substance which is
-    protective.
-
-  ## Brain Health: Creating New Connections and Remodelling the Brain
-
-    Chronic inflammation is bad for the brain. It prevents the production of
-    serotonin, but with exercise we can mitigate some of the effects. 
-
-    Exercise produces short term acute inflammation which is different from this
-    chronic inflammation. It actively supports the growth of new cells in the
-    brain.
-
-    When we exercise, our muscles create **myokines**. These stimulate brain cells
-    to produce molecules that support the healthy condition and production of more
-    neutrons in the brain and are beneficial for the central nervous system. These
-    are called neurotrophic factors. One example is BDNF (Brain Derived
-    Neurotrophic Factor) that is produced through exercise. Those under high
-    stress and those with clinical depression have less of this. Exercise can make
-    up for that shortfall.
-
-    Creating new neutrons in the brain literally allows us the space to think
-    differently. It opens up new avenues for self reflection and joins things
-    together in ways we weren’t able to previously. 
-
-    Suffering from mental health conditions can often feel like being stuck in a
-    rut. You can’t escape negative thought patterns or the enduring mental and
-    physical fatigue. 
-
-    By creating substances like BDNF through exercise we can support psychological
-    recovery and resilience.
 
   ## Euphoria: Happy Molecules :smile:
 
@@ -202,6 +148,62 @@ main: >-
     better. For those that suffer from anxiety, aerobic exercise offers a pathway
     where we can learn to better control our autonomic nervous system and not be a
     slave to the fight or flight mechanism.
+
+  ## Stress and Inflammation: Removing Toxins and Protecting the Brain
+
+    Those with depression have a consistent level of low grade chronic
+    inflammation. There is a clear link between the production of stress hormones,
+    common in mental health conditions, and inflammation.
+
+    When we are not stressed and suffering from chronic inflammation, we are able
+    to use a compound called **tryptophan** and convert it into **serotonin**.
+    This is essential for regulating mood and cognition.
+
+    This is not what happens with those suffering from mental health conditions
+    and inflammation. Instead, **tryptophan** converts into a substance called
+    kynurenine and **quinolinic acid**, which is actually a neurotoxin. It causes
+    the death and disease of brain cells and the normal functioning of the brain.
+
+    Aerobic exercise prevents the production of **quinolinic acid** and instead
+    creates an enzyme that converts tryptophan to **kynurenic acid**. This is
+    actually neuroprotective and supports the brain's normal functioning. 
+
+  ![Excellent diagram from  foundmyfitness.com illustrating how exercise changes
+  tryptophan metabolism](/assets/kynurenine-metabolism-exercise.png "Excellent
+  diagram from  foundmyfitness.com illustrating how exercise changes tryptophan
+  metabolism")
+
+    Running changes the way our body metabolises tryptophan. It prevents the
+    production of toxins in the brain, and swaps it over for a substance which is
+    protective.
+
+  ## Brain Health: Creating New Connections and Remodelling the Brain
+
+    Chronic inflammation is bad for the brain. It prevents the production of
+    serotonin, but with exercise we can mitigate some of the effects. 
+
+    Exercise produces short term acute inflammation which is different from this
+    chronic inflammation. It actively supports the growth of new cells in the
+    brain.
+
+    When we exercise, our muscles create **myokines**. These stimulate brain cells
+    to produce molecules that support the healthy condition and production of more
+    neutrons in the brain and are beneficial for the central nervous system. These
+    are called neurotrophic factors. One example is BDNF (Brain Derived
+    Neurotrophic Factor) that is produced through exercise. Those under high
+    stress and those with clinical depression have less of this. Exercise can make
+    up for that shortfall.
+
+    Creating new neutrons in the brain literally allows us the space to think
+    differently. It opens up new avenues for self reflection and joins things
+    together in ways we weren’t able to previously. 
+
+    Suffering from mental health conditions can often feel like being stuck in a
+    rut. You can’t escape negative thought patterns or the enduring mental and
+    physical fatigue. 
+
+    By creating substances like BDNF through exercise we can support psychological
+    recovery and resilience.
 
   ## Sleep: Restructuring The Circadian Rhythm
 
