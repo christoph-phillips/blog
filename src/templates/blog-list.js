@@ -14,7 +14,7 @@ const Blog = (props) => {
   if (type) {
     blogData = blogData.filter(item => item.type.includes(type))
   } else {
-    blogData = blogData.filter(item => !item.type.includes('quotes'))
+    // blogData = blogData.filter(item => !item.type.includes('quotes'))
   }
   const Box = meta && meta.intro && <IntroBox content={meta.intro} />
   return (<Layout

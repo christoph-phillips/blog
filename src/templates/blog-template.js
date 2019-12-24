@@ -37,12 +37,9 @@ const PostsContainer = styled.div`
 
 const converter = new showdown.Converter({tables: true, emoji: true, extensions: [extension, 'youtube']})
 export default (props) => {
-  console.log({ props })
   const meta = props.pageContext.meta
-
   const { prevPost, nextPost } = findNextPosts(props.data.posts.edges, props.data.post.id)
-  console.log({ prevPost, nextPost })
-  const { title, image, intro, main, created } = props.data.post.frontmatter
+  const { title, image, intro, main, created, type } = props.data.post.frontmatter
   const Box = meta && meta.intro && <IntroBox content={meta.intro} marginBottom={100} />
   return (
       <Layout>
@@ -57,8 +54,8 @@ export default (props) => {
         <Content className="post" dangerouslySetInnerHTML={{__html: converter.makeHtml(main) }} />
         { /* <PostFooter /> */ }
         <PostsContainer>  
-          <BlogItem {...prevPost} small left />
           <BlogItem {...nextPost} small right />
+          <BlogItem {...prevPost} small left />
         </PostsContainer>
         <Newsletter />
       </Layout>
