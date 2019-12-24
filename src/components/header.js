@@ -9,7 +9,7 @@ import { theme, animations } from './theme'
 import strava from "../images/strava.png"
 import github from "../images/github.png"
 import linkedin from "../images/linkedin.png"
-
+import instagram from "../images/instagram.png"
 
 const HeaderContainer = styled.header`
   position: fixed;
@@ -104,6 +104,11 @@ const Subtitle = styled.h4`
 
 const links = [ 'home', 'blog', 'portfolio' ]
 const socialLinks = [
+  {
+    name: 'instagram',
+    icon: instagram,
+    link: 'https://www.instagram.com/run.bike.code'
+  },
   {
     name: 'strava',
     icon: strava,
