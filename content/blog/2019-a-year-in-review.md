@@ -16,7 +16,8 @@ main: >-
 
 
   I had been caring for relatives that had suffered with terminal cancer, and it
-  had taken its toll in PTSD, depression and anxiety. 
+  had taken its toll in symptoms of PTSD, depression and anxiety for much of mid
+  2017 to late 2018.
 
 
   I am happy to say that I achieved this main goal. I feel stronger and
@@ -177,8 +178,6 @@ main: >-
   am fitter and faster than ever before.
 
 
-
-
   ## 2019 In Stats
 
 
@@ -192,8 +191,6 @@ main: >-
 
 
   ![6541 Miles in 2019](/assets/total-distance.png "6541 Miles in 2019")
-
-
 
 
   ## Time - 614 Hours / 12 Hours P Week
@@ -218,24 +215,10 @@ main: >-
   Bike: 375,538ft, 7200ft p/ week
 
 
-
-
   ![558630ft Climbed in 2019](/assets/elevation.png "558630ft Climbed in 2019")
 
 
-
-
-
-
-
-
-
-
   ## My Three Challenges: Failure
-
-
-
-
 
 
   ## 2020 Beckons
