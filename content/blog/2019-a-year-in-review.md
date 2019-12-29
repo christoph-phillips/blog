@@ -38,6 +38,11 @@ main: >-
   2 years of poor training, so I started to feel the benefits quickly.
 
 
+  ![Joining the running club was great for mental and physical
+  fitness](/assets/68246875_10157833366156282_171028479649775616_n.jpg "Joining
+  the running club was great for mental and physical fitness")
+
+
   ## April: Manchester Marathon
 
 
@@ -93,6 +98,11 @@ main: >-
   outdoors enjoying the natural environment. This then transferred to running. 
 
 
+  ![Mont Ventoux took it out of me, but we raised over 5k for
+  charity](/assets/whatsapp-image-2019-07-06-at-12.53.20.jpeg "Mont Ventoux took
+  it out of me, but we raised over 5k for charity")
+
+
   ## August: The Saddleworth Round
 
 
@@ -107,6 +117,11 @@ main: >-
 
   It was a cracking race, and one that started to give me the inkling that my
   fitness could be returning.
+
+
+  ![Descending at the Saddleworth
+  Round](/assets/67510809_10156380797971430_2018877728563920896_o.jpg
+  "Descending at the Saddleworth Round")
 
 
   ## October: The Paddy Buckley and The Fell Relays
@@ -137,6 +152,11 @@ main: >-
   endurance training had had some impact on my VO2 max and threshold limits. I
   think this was a big booster for my confidence. I was incredibly proud to help
   the club and also on a personal level to get that high a place. 
+
+
+  ![Exploring the Paddy Buckley with Chris, Oz, Me, and
+  Des](/assets/whatsapp-image-2019-10-15-at-16.59.56.jpeg "Exploring the Paddy
+  Buckley with Chris, Oz, Me, and Des")
 
 
   ## November - December: Thailand, Ultra Trail Panoramic 50k, Dreaming of FKT's
@@ -171,6 +191,11 @@ main: >-
   to stop as my lungs and legs burnt. As I reached the top I realised I had
   broken the CR which for me was a huge achievement. Feels great to know that I
   am fitter and faster than ever before.
+
+
+  ![Image taken from the Ultra Trail Panoramic 50km - I was loving
+  it](/assets/20191208_050001.jpg "Image taken from the Ultra Trail Panoramic
+  50km - I was loving it")
 
 
   ## 2019 In Stats
