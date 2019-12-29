@@ -15,11 +15,6 @@ main: >-
   years. 
 
 
-  I had been caring for relatives that had suffered with terminal cancer, and it
-  had taken its toll in symptoms of PTSD, depression and anxiety for much of mid
-  2017 to late 2018.
-
-
   I am happy to say that I achieved this main goal. I feel stronger and
   healthier, in both body and mind, than I ever have been before. 
 
@@ -37,7 +32,7 @@ main: >-
 
 
   I had also started training in the Maffetone method since November 2018 as I
-  was getting too many false starts in getting fatigued or injured. Thie method
+  was getting too many false starts in getting fatigued or injured. This method
   requires you to keep your heart rate under a certain figure for all of your
   training. It supports the building of a huge aerobic base. I had no base from
   2 years of poor training, so I started to feel the benefits quickly.
@@ -316,6 +311,33 @@ main: >-
   more elevation.
 
 
+  **Cycling - Watts Per Kilo - 4.9 -> 5+**
+
+
+  In 2019 I managed to hit 4.9 watts per kilo. 
+
+
+  It's a very simple measurement of the power you can hold for one hour, divided
+  by your body weight. 
+
+
+  It's also a key part of racing bikes and measuring fitness over time.
+
+
+  For 2020 I would like to hit over 5 watts per kilo. Ideally I'd like to hit
+  350 watts in a 20 minute time trial at 60 kilos. 
+
+
+  If we take 95% of that number then it works out to 5.5 watts per kilo. 
+
+
+  It's verging on pro level. I'm not sure it's actually physiologically possible
+  for me to do it. 
+
+
+  It's better to set your sights high though. :wink:
+
+
   **Fell Racing - The English Championships**
 
 
@@ -338,7 +360,6 @@ main: >-
 
 
   1. Yorkshire 3 Peaks - 24 miles, 4500ft.
-
 
   2. The Manx Mountain Marathon - 33 miles, 4500ft.
 
