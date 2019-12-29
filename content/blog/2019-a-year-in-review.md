@@ -3,7 +3,7 @@ title: 2019 A Year In Review
 type:
   - training
 created: 2019-12-28T11:06:28.003Z
-image: /assets/crowden5.jpg
+image: /assets/screenshot-2019-12-29-at-16.38.34.png
 intro: >-
   A deep dive into my training of 2019, what's staying, and what's going for
   2020
@@ -187,7 +187,7 @@ main: >-
   **Run**: 1,292 miles, 25m p / week
 
 
-  **Bike**: 5,251 miles, 101m p/wek
+  **Bike**: 5,251 miles, 101m p/week
 
 
   ![6541 Miles in 2019](/assets/total-distance.png "6541 Miles in 2019")
@@ -218,9 +218,146 @@ main: >-
   ![558630ft Climbed in 2019](/assets/elevation.png "558630ft Climbed in 2019")
 
 
+  ## Comparisons With 2018
+
+
+  **Running**
+
+
+  ![2018 Running Stats](/assets/screenshot-2019-12-25-at-14.07.01.png "2018
+  Running Stats")
+
+
+  In 2018 I ran 352 miles...... So I've ran 5 times more in 2019 with
+  considerably more elevation and time on feet :smile:
+
+
+  **Cycling**
+
+
+  ![2018 Cycling Stats](/assets/screenshot-2019-12-25-at-14.06.50.png "2018
+  Cycling Stats")
+
+
+  I've cycled nearly 4 times as much distance in 2019 than in 2018 and 3 times
+  as much time on the bike. That's good news because it means in general I've
+  been going faster even though I've been hitting more hills. I thank a power
+  meter and zone based training for this.
+
+
+  **Overall** 
+
+
+  ![The last 5 years in data](/assets/screenshot-2019-12-29-at-16.38.34.png "The
+  last 5 years in data")
+
+
+  As you can see from above, 2019 has been a bumper year. I've done more miles
+  than any of the previous 4 years and it's pretty close to being more than all
+  of them combined. 
+
+
   ## My Three Challenges: Failure
 
 
+  I had three challenges after the Manchester Marathon.
+
+
+  1. Ride 200km in one ride
+
+
+  This I succeeded in doing with my mate Des one lovely sunny Summer afternoon.
+
+
+  2. Run a fast 50km
+
+
+  **Mission Complete**. The [Ultra Trail Panoramic
+  50km](/blog/ultra-trail-panoramic-50km-chiang-mai-thailand/) was a resounding
+  success. 
+
+
+  3. Run a sub 16 minute 5km.
+
+
+  **Mission Failed**. To be honest I ran out of time. I had planned to get this
+  done in Chiang Mai on the back of so much training volume and felt with a
+  month of weekly speedwork it would be possible. Unfortunately I got food
+  poisoning twice and ended up focusing on other goals such as the FKT's on
+  various uphill climbs in Chiang Mai.
+
+
   ## 2020 Beckons
+
+
+  So, what's the plan for 2020?
+
+
+  **General Volume**
+
+
+  To start with, in terms of training volume, I want to equal out the running
+  and cycling volume. To be honest, it would be good to swap the two around in
+  order to maintain a high level of running fitness for the 2020 fell running
+  season.
+
+
+  These are my targets:
+
+
+  Running: Average 50 miles per week, keeping the elevation high.
+
+
+  Cycling: Average 100 miles per week.
+
+
+  I've kept these achievable and conservative. This would see me with a similar
+  cycling mileage as 2019, but doubling my running mileage with considerably
+  more elevation.
+
+
+  **Fell Racing - The English Championships**
+
+
+  I've decided to focus heavily on the English Fell Running Championships this
+  year. 
+
+
+  I'd like to see where I am at on the national scene. I know I'm far behind the
+  fastest guys but I can't get stronger if I'm not pushed and humbled around
+  pure talent.
+
+
+  I'm excited to get my arse kicked :smiles:
+
+
+  **Ultra Running And Racing**
+
+
+  I have a few A Races in the calendar.
+
+
+  1. Yorkshire 3 Peaks - 24 miles, 4500ft.
+
+
+  2. The Manx Mountain Marathon - 33 miles, 4500ft.
+
+
+  Both suit my style of running with a heavy endurance element whilst still
+  pushing the uphills and descents. As the Manx Marathon will also have Joss
+  Naylor and an open invite to all previous winners, it will be great to have
+  some stellar competition!
+
+
+  I will run a 100km this year. No race planned yet, so if you have any
+  suggestions get in touch. 
+
+
+  **Other Goals**
+
+
+  I will go sub 16 for the 5k this year. It's not up for debate in my mind, it's
+  been something I've tried to achieve many times before and I've got that base
+  fitness to follow it through. It's now or never!
 ---
 
