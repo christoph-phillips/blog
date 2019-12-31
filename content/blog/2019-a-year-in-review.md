@@ -27,12 +27,12 @@ main: >-
 
   By far the best decision I made this year was to join my local running club.
   Saddleworth Runners have invited me with open arms and became a key source of
-  creating new friendships where I had ended up after supporting my Dad with his
-  illness.
+  creating new friendships in Mossley where I had ended up after supporting my
+  Dad with his illness.
 
 
   I had also started training in the Maffetone method since November 2018 as I
-  was getting too many false starts in getting fatigued or injured. This method
+  was getting too many false starts by getting fatigued or injured. This method
   requires you to keep your heart rate under a certain figure for all of your
   training. It supports the building of a huge aerobic base. I had no base from
   2 years of poor training, so I started to feel the benefits quickly.
@@ -53,8 +53,7 @@ main: >-
 
 
   The Maffetone training had supported the build of some base fitness so I felt
-  that 3 hours should be comfortable race time. (It's the kind of pace I used to
-  feel like jogging).
+  that 3 hours should be comfortable race time.
 
 
   Unfortunately this didn't turn out to be true :smile:. I badly cramped in the
@@ -179,7 +178,7 @@ main: >-
 
   There was always something in the back of my mind this year. A real test of
   fitness and max hill power. The Pilgrim's Trail in Chiang Mai was where my
-  trail running journey truly began and I realised I might have a little bit of
+  trail running journey truly began and  I realised I might have a little bit of
   potential. It has always been a bit of a battle ground for runners living in
   Chiang Mai, and three people have swapped the record routinely in the past
   three years, including myself. I knew that if I could break my previous record
