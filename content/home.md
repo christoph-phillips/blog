@@ -2,7 +2,6 @@
 identities:
   - identity: developer
     images:
-      - /assets/sumo.png
       - /assets/arcticintelligence.png
       - /assets/funacademy.png
       - /assets/iglu.png
