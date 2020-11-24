@@ -2,7 +2,7 @@
 identities:
   - identity: developer
     images:
-      - /assets/640px-bbc.svg.png
+      - /assets/bbc-blocks.png
       - /assets/arcticintelligence.png
       - /assets/funacademy.png
       - /assets/iglu.png
