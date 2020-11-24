@@ -2,11 +2,11 @@
 identities:
   - identity: developer
     images:
-      - /assets/640px-bbc.svg.png
       - /assets/arcticintelligence.png
       - /assets/funacademy.png
       - /assets/iglu.png
       - /assets/songhi.png
+      - /assets/bbc-blocks.png
     intro: >-
       I work with and consult for a wide range of organisations from Finland,
       Thailand, Canada and the UK.
